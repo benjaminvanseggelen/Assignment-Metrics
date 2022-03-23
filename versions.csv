@@ -4,4 +4,4 @@ version,libdirectory,jarpath
 5.2.1,/versions/5.2.1/lib,/versions/5.2.1/itextpdf-5.2.1.jar
 5.3.4,/versions/5.3.4/lib,/versions/5.3.4/itextpdf-5.3.4.jar
 5.4.5,/versions/5.4.5/lib,/versions/5.4.5/itextpdf-5.4.5.jar
-5.5.13.3,/versions/5.5.13.3/lib,/versions/5.5.13.3/itextpdf-5.5.13.3.jar
+5.5.13.3,,/versions/5.5.13.3/itextpdf-5.5.13.3.jar
