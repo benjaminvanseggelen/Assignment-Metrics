@@ -2,14 +2,12 @@ import csv
 import subprocess
 
 with open('versions.csv') as f:
-    csv_reader = csv.reader(f)
-    csv_rows = iter(csv_reader)
-    next(csv_rows) # Skip header row
+    csv_reader = csv.DictReader(f)
 
-    for row in csv_rows:
-        version = row[0]
-        lib_directory = row[1]
-        jar_path = row[2]
+    for row in csv_reader:
+        version = row['version']
+        lib_directory = row['libdirectory']
+        jar_path = row['jarpath']
 
         print(f'\n\nVersion: {version}\n Library directoy: {lib_directory}\n JAR path: {jar_path}')
 
