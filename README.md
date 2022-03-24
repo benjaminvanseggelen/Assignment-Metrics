@@ -4,6 +4,16 @@ This repository contains the files needed to start on the metrics assignment for
 Contained within this repository are a 6 versions of the itextpdf library, downloaded from Maven.
 Additionally, two compiled .jars are included, `ckjm` which computes metrics and `layer_extractor` which analyzes the architecture of a jar to determine to which layer each class belongs.
 
+This repository is available at: https://github.com/benjaminvanseggelen/Assignment-Metrics
+
+## `Scripts`
+
+- Running `run_metrics.py` will run `CKJM` and `layer_extractor` on all versions specified in the `versions.csv` file.
+- After that, running `calculate_fwbr.py` will calculate the FWBR and FWBR sub-metric values.
+- All metrics will be stored in `.csv` files in their corresponding directories.
+- `spearman.py` will calculate and output the Spearman's coefficient and p-values.
+- `question3.py`, `question5.py`, `question6.py` will output results for their corresponding questions in the quiz.
+
 ## `CKJM`
 
 To run ckjm two arguments are expected:
