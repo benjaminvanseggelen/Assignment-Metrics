@@ -1,567 +1,567 @@
-ClassName, fwbr, fwbr_sub_type, fwbr_sub
-com.itextpdf.text.ExceptionConverter, -0.7065822147411698, n, -0.7149526154872052
-com.itextpdf.text.pdf.qrcode.Version, -5.98607786781364, n, -5.604341732727802
-com.itextpdf.text.pdf.codec.wmf.MetaObject, 0.4298227109605415, n, -0.2020174351924957
-com.itextpdf.text.pdf.codec.TiffWriter$FieldImage, -3.6771168026633485, n, -4.000236507286551
-com.itextpdf.text.pdf.parser.LocationTextExtractionStrategy, -7.19050254853882, n, -6.478090148527892
-com.itextpdf.text.pdf.fonts.FontsResourceAnchor, -0.6010926466820399, n, -0.5893628394357854
-com.itextpdf.text.pdf.parser.PdfContentStreamProcessor$SetTextWordSpacing, -7.559398311907675, n, -7.431155267845372
-com.itextpdf.text.pdf.ArabicLigaturizer$charstruct, -0.6010926466820399, n, -0.5893628394357854
-com.itextpdf.text.TextElementArray, -3.0789347956512, n, -3.45100787029188
-com.itextpdf.text.pdf.CMapAwareDocumentFont, -9.914415949134714, n, -9.77429302005196
-com.itextpdf.text.pdf.internal.PdfXConformanceImp, -12.037700733090732, n, -11.410589246810355
-com.itextpdf.text.pdf.IntHashtable$Entry, -0.10477070614665474, n, -0.0709087371376953
-com.itextpdf.text.pdf.PdfEncodings$SymbolConversion, -4.206974069303451, n, -3.893286322950438
-com.itextpdf.text.pdf.ShadingColor, -5.09480972419664, n, -5.508239103132729
-com.itextpdf.text.pdf.qrcode.ByteMatrix, 0.11884645778405933, n, 0.46188804708558706
-com.itextpdf.text.pdf.qrcode.BitArray, 0.2462707719455437, n, 0.6239407343566663
-com.itextpdf.text.html.simpleparser.ImageStore, -1.3551727858203129, n, -1.776926172330191
-com.itextpdf.text.pdf.parser.PdfContentStreamProcessor$PushGraphicsState, -7.019041112293983, n, -6.784842401466811
-com.itextpdf.text.pdf.codec.TiffImage, -10.96476301941718, n, -9.8329290343864
-com.itextpdf.text.xml.xmp.XmpReader, -4.735081561056619, n, -3.596350390263356
-com.itextpdf.text.pdf.OcspClient, -0.4440192436043722, n, -0.7348142194157781
-com.itextpdf.text.pdf.BarcodePostnet, -6.783545019576289, n, -6.377496696951782
-com.itextpdf.text.pdf.PdfOCG, -4.318776621068297, n, -4.661248708770562
-com.itextpdf.text.pdf.CFFFont$UInt16Item, -3.2469449388595195, n, -3.4336980554469374
-com.itextpdf.text.exceptions.UnsupportedPdfException, -4.431196941801621, n, -5.187799840180956
-com.itextpdf.text.html.simpleparser.ImageProvider, -5.713850347698026, n, -6.167201521167983
-com.itextpdf.text.pdf.collection.PdfTargetDictionary, -6.895404738838211, n, -7.276505324389312
-com.itextpdf.text.pdf.PdfFileSpecification, -10.01194995913202, n, -9.818729212335942
-com.itextpdf.text.pdf.interfaces.PdfVersion, -3.8731892592676895, n, -4.121930468583158
-com.itextpdf.text.FontFactoryImp, -6.703008212147145, n, -5.996654286563586
-com.itextpdf.text.pdf.richmedia.RichMediaParams, -7.106595866897463, n, -7.542251573426823
-com.itextpdf.text.pdf.collection.PdfCollection, -7.886181037905841, n, -8.25321329808753
-com.itextpdf.text.Section, -8.374220046004575, n, -8.844498061451034
-com.itextpdf.text.xml.xmp.XmpBasicSchema, -4.847783090383355, n, -5.335023770562209
-com.itextpdf.text.pdf.parser.TextRenderInfo, -7.34122273271304, n, -6.860214467070684
-com.itextpdf.text.pdf.PdfLister, -8.824880172014637, n, -7.981463142343527
-com.itextpdf.text.pdf.PdfSignatureAppearance$RangeStream, -3.289950036410306, n, -3.0240662945158703
-com.itextpdf.text.pdf.CFFFont$UInt32Item, -3.2469449388595195, n, -3.4336980554469374
-com.itextpdf.text.Annotation, -3.7546334751815036, n, -3.518323366619842
-com.itextpdf.text.html.HtmlTags, -0.6010926466820399, n, -0.5893628394357854
-com.itextpdf.text.pdf.crypto.IVGenerator, -2.864246748990621, n, -2.149293850133218
-com.itextpdf.text.pdf.qrcode.MaskUtil, -3.7996050891028252, n, -3.316647155311551
-com.itextpdf.text.pdf.SequenceList, 0.045178677027858605, n, 0.8735712980942523
-com.itextpdf.text.pdf.StampContent, -8.903251043377677, n, -9.176582651983104
-com.itextpdf.text.pdf.PRTokeniser, -4.682955033241893, n, -4.232292801413264
-com.itextpdf.text.pdf.PdfSignatureAppearance$1, -3.347453551783471, n, -3.202357093873432
-com.itextpdf.text.pdf.codec.PngWriter, -1.678337589161264, n, -1.2089428925910637
-com.itextpdf.text.pdf.qrcode.ReedSolomonException, -1.3551727858203129, n, -1.776926172330191
-com.itextpdf.text.pdf.PdfNull, -3.0562042991151097, n, -3.3853124263212906
-com.itextpdf.text.Anchor, -8.362815783911806, n, -8.520749986515174
-com.itextpdf.text.pdf.BarcodePDF417, -5.809627867372265, n, -5.394258026206282
-com.itextpdf.text.pdf.internal.PolylineShapeIterator, -4.268673720266557, n, -4.028248233864915
-com.itextpdf.text.pdf.codec.TiffWriter, -4.072360004330779, n, -3.320026933854058
-com.itextpdf.text.pdf.richmedia.RichMediaActivation, -8.03354132977045, n, -8.577976833885785
-com.itextpdf.text.pdf.PdfBorderArray, -7.2832176217308096, n, -7.601902533034902
-com.itextpdf.text.html.simpleparser.StyleSheet, -5.726775488427416, n, -4.675496157815571
-com.itextpdf.text.pdf.Barcode, -4.965378158380363, n, -5.833131037180045
-com.itextpdf.text.pdf.PdfNumberTree, -9.130924686964624, n, -8.20927386456466
-com.itextpdf.text.pdf.PdfGraphics2D$Kid, -3.2360081987288676, n, -3.3055564903118877
-com.itextpdf.text.pdf.PdfLayerMembership, -9.040188888585252, n, -9.195100876592491
-com.itextpdf.text.pdf.XfaForm$Xml2SomDatasets, -5.511190723160095, n, -4.339968799295782
-com.itextpdf.text.pdf.PdfEncryption, -9.683836912904285, n, -9.05457339752268
-com.itextpdf.text.pdf.CFFFont$UInt24Item, -3.2469449388595195, n, -3.4336980554469374
-com.itextpdf.text.pdf.parser.XObjectDoHandler, -5.713850347698026, n, -6.167201521167983
-com.itextpdf.text.error_messages.MessageLocalization, -2.1344139908213307, n, -1.3251343390787493
-com.itextpdf.text.pdf.PdfFormField, -10.010586294902957, n, -10.203640689985672
-com.itextpdf.text.pdf.PdfCopy$PageStamp, -12.133664911739519, n, -10.952082258929725
-com.itextpdf.text.pdf.PdfResources, -6.546409630925894, n, -6.624284089224754
-com.itextpdf.text.pdf.PdfDeveloperExtension, -6.629659939460183, n, -6.548076559313691
-com.itextpdf.text.pdf.PdfReaderInstance, -11.35704234955883, n, -10.310356473317261
-com.itextpdf.text.pdf.PdfColor, -7.440291024808477, n, -7.45645115305491
-com.itextpdf.text.pdf.BarcodeEANSUPP, -8.446352570277124, n, -7.924820167618744
-com.itextpdf.text.pdf.PdfDictionary, -6.326808763028031, n, -7.87360162136801
-com.itextpdf.text.SplitCharacter, -3.0789347956512, n, -3.45100787029188
-com.itextpdf.text.pdf.interfaces.PdfEncryptionSettings, -2.7774498305539193, n, -3.0723772783111514
-com.itextpdf.text.pdf.codec.JBIG2Image, -8.052287353508321, n, -7.548192457783709
-com.itextpdf.text.pdf.codec.Base64$InputStream, -5.05573071103155, n, -5.021962213540043
-com.itextpdf.text.pdf.codec.TIFFField, 0.6219093898016166, n, 0.9305263581813867
-com.itextpdf.text.pdf.MultiColumnText$ColumnDef, -2.72734692975218, n, -2.439376803405504
-com.itextpdf.text.pdf.CFFFont$DictOffsetItem, -3.6800274423332398, n, -4.040370709727666
-com.itextpdf.text.pdf.codec.TIFFDirectory, -3.8097041044475586, n, -3.1243763230520485
-com.itextpdf.text.exceptions.IllegalPdfSyntaxException, -1.7962813897547942, n, -2.4716061893048535
-com.itextpdf.text.pdf.PdfNameTree, -9.479640809985959, n, -8.595348275123186
-com.itextpdf.text.pdf.ExtraEncoding, 0.10626358846938544, n, -0.05448642921518049
-com.itextpdf.text.pdf.events.IndexEvents, -7.833918585877479, n, -7.406021021631224
-com.itextpdf.text.pdf.PdfCopy$RefKey, -4.425747123344225, n, -3.8827968538849222
-com.itextpdf.text.pdf.PdfSignature, -7.659785125749346, n, -8.21607227750446
-com.itextpdf.text.pdf.parser.PdfContentStreamProcessor$SetTextHorizontalScaling, -7.559398311907675, n, -7.431155267845372
-com.itextpdf.text.pdf.events.IndexEvents$Entry, -2.1886750332344316, n, -1.5562008416796789
-com.itextpdf.text.pdf.hyphenation.CharVector, -2.283698044480947, n, -2.1103313665222085
-com.itextpdf.text.pdf.PdfTransparencyGroup, -6.9826909380502356, n, -7.348106683018605
-com.itextpdf.text.pdf.PdfWriter, -13.976691973511365, n, -14.24000248664314
-com.itextpdf.text.pdf.OutputStreamCounter, -0.4102080430080399, n, -0.2638155484892132
-com.itextpdf.text.pdf.parser.PdfContentStreamProcessor$TextSetTextMatrix, -7.682764318671998, n, -7.316917239160024
-com.itextpdf.text.pdf.Pfm2afm, -4.285173639060486, n, -3.437641976572733
-com.itextpdf.text.pdf.codec.wmf.Point, -0.2539796315616957, n, -0.25298423099659273
-com.itextpdf.text.pdf.codec.TIFFFaxDecoder, -1.8473975024626408, n, -1.675414779532201
-com.itextpdf.text.BadElementException, -3.7422816247290713, n, -4.139803986087592
-com.itextpdf.text.MarkedObject, -4.356611838629279, n, -4.52593675874357
-com.itextpdf.text.pdf.FontMapper, -2.7774498305539193, n, -3.0723772783111514
-com.itextpdf.text.pdf.parser.PdfContentStreamProcessor$BeginText, -7.059856793874105, n, -6.747046714263694
-com.itextpdf.text.pdf.PdfCopyFieldsImp, -11.720266720103805, n, -11.431435095408053
-com.itextpdf.text.pdf.Type3Font, -10.417419840467224, n, -10.079355345232392
-com.itextpdf.text.pdf.DefaultFontMapper$BaseFontParameters, -0.6010926466820399, n, -0.5893628394357854
-com.itextpdf.text.pdf.PdfDocument$Destination, -6.719177094635212, n, -6.896169188559684
-com.itextpdf.text.Chunk, -8.208063498032962, n, -7.82489315972418
-com.itextpdf.text.pdf.PdfBoolean, -5.932042815403527, n, -5.895640394625825
-com.itextpdf.text.pdf.richmedia.RichMediaInstance, -8.433589419315876, n, -8.732507939100763
-com.itextpdf.text.pdf.AcroFields$RevisionStream, -4.67909047202115, n, -4.559252840154993
-com.itextpdf.text.ImgJBIG2, -3.3593484121979897, n, -3.272835329799422
-com.itextpdf.text.pdf.PdfPrinterGraphics2D, -6.6407614256487335, n, -7.36903420532097
-com.itextpdf.text.PageSize, -5.767178215409649, n, -4.927924809417245
-com.itextpdf.text.pdf.PdfPageElement, -2.7774498305539193, n, -3.0723772783111514
-com.itextpdf.text.ZapfDingbatsList, -8.276144794982839, n, -7.887823279707379
-com.itextpdf.text.xml.simpleparser.EntitiesToUnicode, -0.34643198880206594, n, 0.6753361842349619
-com.itextpdf.text.pdf.FdfWriter$Wrt, -11.525104929355859, n, -11.025885933808313
-com.itextpdf.text.pdf.MappedRandomAccessFile$1, -0.28236613593281423, n, 0.08037500884228296
-com.itextpdf.text.pdf.PdfDocument$PdfCatalog, -11.180065820894232, n, -10.80975962171082
-com.itextpdf.text.pdf.PdfObject, -3.654639814648906, n, -4.514435523160481
-com.itextpdf.text.pdf.EnumerateTTC, -7.480265409189299, n, -7.099190217613746
-com.itextpdf.text.pdf.VerticalText, -8.084601071813086, n, -7.470125150496985
-com.itextpdf.text.pdf.PdfException, -3.4171692294119715, n, -4.139803986087592
-com.itextpdf.text.pdf.parser.InlineImageUtils, -8.46237306298696, n, -7.5851270946515825
-com.itextpdf.text.pdf.qrcode.BitMatrix, -2.462657797779053, n, -2.023716198355941
-com.itextpdf.text.pdf.TrueTypeFont$WindowsMetrics, -0.6010926466820399, n, -0.5893628394357854
-com.itextpdf.text.pdf.XfaForm$Xml2Som, -2.7054117420804027, n, -2.5378713923348872
-com.itextpdf.text.pdf.hyphenation.Hyphenation, -0.1521479140558596, n, 0.3321148957054849
-com.itextpdf.text.pdf.parser.PdfContentStreamProcessor$ShowText, -6.921684245566822, n, -6.874995733211917
-com.itextpdf.text.pdf.draw.LineSeparator, -4.6072137977187895, n, -4.926168418454925
-com.itextpdf.text.pdf.PdfSpotColor, -10.20351303859306, n, -9.44216826544332
-com.itextpdf.text.pdf.codec.JBIG2SegmentReader$JBIG2Segment, -0.10029111140372948, n, -0.08822809683151081
-com.itextpdf.text.pdf.PushbuttonField, -11.588142710143593, n, -11.003499596745694
-com.itextpdf.text.pdf.BidiOrder, -2.593997597302418, n, -2.3274828254537065
-com.itextpdf.text.pdf.Barcode128, -8.338320646777516, n, -7.624551393850801
-com.itextpdf.text.pdf.events.PdfPCellEventForwarder, -6.643927558920238, n, -6.225982649957251
-com.itextpdf.text.DocumentException, -0.3493155349998266, n, -1.041300333894707
-com.itextpdf.text.pdf.qrcode.ReedSolomonEncoder, -4.8928662529192835, n, -4.04757665089423
-com.itextpdf.text.pdf.PdfEncodings$Cp437Conversion, -5.0616461133397275, n, -4.758904390963765
-com.itextpdf.text.pdf.PdfPTableEventSplit, -4.620261586165577, n, -5.039879300751292
-com.itextpdf.text.pdf.qrcode.MatrixUtil, -6.071734161472357, n, -5.652784608914459
-com.itextpdf.text.pdf.CFFFont$StringItem, -3.4785012601840517, n, -3.4442879973694667
-com.itextpdf.text.pdf.PdfEncodings$1, -0.7540801391382729, n, -1.1875633328944057
-com.itextpdf.text.pdf.PdfLayer, -9.09447440347251, n, -9.211121499975162
-com.itextpdf.text.pdf.TextField, -11.420263187264979, n, -10.778246840887505
-com.itextpdf.text.pdf.CFFFont$Item, 1.3771771460748004, n, 0.19330192450131983
-com.itextpdf.text.pdf.events.IndexEvents$1, -4.3841255602471545, n, -4.068648750590709
-com.itextpdf.text.pdf.PdfReader, -11.491153092992535, n, -11.004226990572652
-com.itextpdf.text.pdf.CJKFont, -9.461766303384925, n, -9.076602497323373
-com.itextpdf.text.pdf.qrcode.Version$ECBlocks, -2.6159015766975764, n, -2.5425761998439596
-com.itextpdf.text.pdf.parser.PdfContentStreamProcessor$ShowTextArray, -8.671813255862963, n, -8.270514435487769
-com.itextpdf.text.pdf.PRIndirectReference, -7.152984230817344, n, -7.2076447096823735
-com.itextpdf.text.html.WebColors, -5.338869718403668, n, -4.759772953350166
-com.itextpdf.text.pdf.parser.PdfContentStreamProcessor$EndMarkedContent, -6.168894262561454, n, -6.215841398359086
-com.itextpdf.text.pdf.PdfPageEventHelper, -5.202690317062689, n, -5.81661043935085
-com.itextpdf.text.pdf.parser.ContentByteUtils, -8.476106785134245, n, -7.575581742129853
-com.itextpdf.text.html.simpleparser.HTMLTagProcessor, -4.318776621068297, n, -4.661248708770562
-com.itextpdf.text.pdf.interfaces.PdfXConformance, 0.10626358846938544, n, -0.05448642921518049
-com.itextpdf.text.pdf.hyphenation.SimplePatternParser, -6.066622081054061, n, -5.308760639304409
-com.itextpdf.text.pdf.CFFFont$SubrMarkerItem, -6.171474039462947, n, -6.413793217339791
-com.itextpdf.text.Chapter, -4.8529716401126155, n, -5.626391189830119
-com.itextpdf.text.pdf.richmedia.RichMediaDeactivation, -6.36433460639681, n, -6.792887194898548
-com.itextpdf.text.pdf.codec.LZWCompressor, -4.735792849841616, n, -4.193028030874222
-com.itextpdf.text.ListItem, -6.545336536899039, n, -6.868833946678079
-com.itextpdf.text.Meta, -4.154200617161355, n, -4.253116244797312
-com.itextpdf.text.pdf.crypto.AESCipher, -8.575742516475495, n, -7.93334450572856
-com.itextpdf.text.pdf.codec.wmf.MetaBrush, -5.820597462348924, n, -5.998839791064281
-com.itextpdf.text.pdf.PdfSmartCopy, -12.783431829017223, n, -12.444135936551609
-com.itextpdf.text.pdf.parser.PdfContentStreamProcessor$BeginMarkedContentDictionary, -8.354872633122303, n, -8.144154415559532
-com.itextpdf.text.pdf.collection.PdfCollectionField, -8.978014742541479, n, -8.978029882943137
-com.itextpdf.text.pdf.PdfPage, -7.705896851544902, n, -8.034797663165094
-com.itextpdf.text.pdf.PdfPattern, -10.92665245207997, n, -10.700294507168888
-com.itextpdf.text.pdf.internal.PdfViewerPreferencesImp, -7.853834377116229, n, -7.591545606571938
-com.itextpdf.text.pdf.interfaces.PdfAnnotations, -4.966778020800139, n, -5.2492526889998485
-com.itextpdf.text.pdf.PdfStamperImp, -14.584438691098562, n, -13.894496227224856
-com.itextpdf.text.Font$FontStyle, -2.848487792336408, n, -2.963199081062789
-com.itextpdf.text.pdf.qrcode.CharacterSetECI, 0.4994730174654751, n, 0.7712927409654097
-com.itextpdf.text.pdf.PdfName, -6.0999187205278655, n, -5.5898018623601695
-com.itextpdf.text.Element, -2.0381008368907017, n, -2.1775721781451263
-com.itextpdf.text.pdf.internal.PdfAnnotationsImp, -10.776866040043888, n, -9.721639092425976
-com.itextpdf.text.xml.xmp.XmpSchema, -3.7956381910482957, n, -4.646145580513601
-com.itextpdf.text.pdf.events.FieldPositioningEvents, -11.318265845393753, n, -11.024227212588821
-com.itextpdf.text.pdf.parser.PdfContentStreamProcessor$1, -0.7540801391382729, n, -1.1875633328944057
-com.itextpdf.text.DocWriter, -6.127050595870826, n, -6.135147539358339
-com.itextpdf.text.pdf.parser.PdfImageObject, -11.288789354505786, n, -10.379942619557207
-com.itextpdf.text.pdf.PdfPKCS7$X509NameTokenizer, -0.5595505072804106, n, 0.11203705046129087
-com.itextpdf.text.pdf.PdfDocument$Indentation, -0.6010926466820399, n, -0.5893628394357854
-com.itextpdf.text.Rectangle, -3.814818724704814, n, -4.196921186110851
-com.itextpdf.text.pdf.PdfChunk, -7.884054358578894, n, -7.1637599436204615
-com.itextpdf.text.xml.simpleparser.SimpleXMLDocHandlerComment, -0.4440192436043722, n, -0.7348142194157781
-com.itextpdf.text.pdf.XfaForm$Xml2SomTemplate, -5.241903576398288, n, -4.39472029796757
-com.itextpdf.text.pdf.codec.TiffWriter$FieldUndefined, -3.6771168026633485, n, -4.000236507286551
-com.itextpdf.text.pdf.PdfStructureElement, -9.8163014562718, n, -9.732997057208928
-com.itextpdf.text.pdf.codec.PngImage, -9.63178307783254, n, -8.84538016339589
-com.itextpdf.text.pdf.parser.PdfContentStreamProcessor$IgnoreXObjectDoHandler, -6.791338037741833, n, -6.995697490682142
-com.itextpdf.text.pdf.parser.PdfTextExtractor, -7.019041112293983, n, -6.784842401466811
-com.itextpdf.text.pdf.PdfContentByte$GraphicState, -4.55033294239283, n, -4.671838650693092
-com.itextpdf.text.pdf.SimpleBookmark, -10.965625531391211, n, -9.810043258603574
-com.itextpdf.text.pdf.qrcode.WriterException, -1.094503502303155, n, -1.3604998931463441
-com.itextpdf.text.pdf.collection.PdfCollectionSort, -8.273762359299486, n, -8.23564617879225
-com.itextpdf.text.pdf.CFFFont$IndexBaseItem, -3.6771168026633485, n, -4.000236507286551
-com.itextpdf.text.pdf.parser.PdfContentStreamProcessor$MoveNextLineAndShowText, -7.402038433867832, n, -7.187282873354314
-com.itextpdf.text.pdf.codec.wmf.InputMeta, -4.089905848814794, n, -3.9255347838246104
-com.itextpdf.text.pdf.PdfContentParser$1, -3.347453551783471, n, -3.202357093873432
-com.itextpdf.text.pdf.events.PdfPageEventForwarder, -6.692674580072904, n, -6.1998824978090665
-com.itextpdf.text.xml.simpleparser.SimpleXMLParser, -8.173059941916597, n, -7.2726195368500095
-com.itextpdf.text.html.simpleparser.HTMLTagProcessors, -12.271443646942586, n, -11.860162584206252
-com.itextpdf.text.pdf.codec.JBIG2SegmentReader$JBIG2Page, -4.8928662529192835, n, -4.04757665089423
-com.itextpdf.text.pdf.PdfSignatureAppearance$RenderingMode, -3.013351183452495, n, -3.1143723469109896
-com.itextpdf.text.pdf.codec.wmf.MetaFont, -8.500304355089108, n, -8.284272018314462
-com.itextpdf.text.pdf.PdfNumber, -5.750668818576175, n, -5.630799141006081
-com.itextpdf.text.pdf.parser.TextExtractionStrategy, -3.0789347956512, n, -3.45100787029188
-com.itextpdf.text.pdf.PdfAction, -10.51643153785102, n, -10.798707115836928
-com.itextpdf.text.pdf.GlyphList, -5.832713294926309, n, -4.722443255330515
-com.itextpdf.text.pdf.PdfWriter$PdfTrailer, -9.387879882845835, n, -9.374219407717185
-com.itextpdf.text.pdf.parser.PdfReaderContentParser, -8.085380550231749, n, -7.7011904244462315
-com.itextpdf.text.pdf.PdfEncodings, -8.322582106102686, n, -7.439519986599656
-com.itextpdf.text.pdf.BarcodeDatamatrix$Placement, 0.27002713213634333, n, 0.6486410550623098
-com.itextpdf.text.pdf.PdfPTableEvent, -4.620261586165577, n, -5.039879300751292
-com.itextpdf.text.pdf.hyphenation.ByteVector, 0.2977600079402738, n, 0.4908233093961084
-com.itextpdf.text.Phrase, -8.70679782192874, n, -9.16229292384215
-com.itextpdf.text.pdf.qrcode.EncodeHintType, -0.2539796315616957, n, -0.25298423099659273
-com.itextpdf.text.pdf.PdfArray, -7.757146321016877, n, -8.473054986609911
-com.itextpdf.text.pdf.internal.PdfVersionImp, -8.159184382351642, n, -7.748665988652474
-com.itextpdf.text.pdf.PdfGState, -6.64516523307499, n, -6.98753462991334
-com.itextpdf.text.pdf.richmedia.RichMediaAnimation, -6.79681457835008, n, -7.100379980050617
-com.itextpdf.text.pdf.parser.PdfContentStreamProcessor$SetTextRise, -7.559398311907675, n, -7.431155267845372
-com.itextpdf.text.pdf.PdfSigGenericPKCS, -8.417717834550567, n, -8.923156002686941
-com.itextpdf.text.pdf.PdfEncryptor, -4.1047335312164375, n, -3.8161069267771985
-com.itextpdf.text.pdf.PdfCopy$StampContent, -5.931341787701794, n, -6.329084753919363
-com.itextpdf.text.pdf.parser.RenderFilter, -3.6411315305977707, n, -4.27950383980604
-com.itextpdf.text.pdf.PdfRendition, -9.218723770855163, n, -8.970347943777272
-com.itextpdf.text.pdf.FontSelector, -9.253864535054209, n, -8.18155607518054
-com.itextpdf.text.pdf.PdfCopyFormsImp, -9.101941161110997, n, -8.720715784019104
-com.itextpdf.text.FontProvider, -4.318776621068297, n, -4.661248708770562
-com.itextpdf.text.pdf.StandardDecryption, -4.766800648624833, n, -4.164314531104114
-com.itextpdf.text.pdf.codec.TiffWriter$FieldByte, -3.6771168026633485, n, -4.000236507286551
-com.itextpdf.text.pdf.CFFFont$MarkerItem, -5.0778852779304975, n, -5.2864709969231
-com.itextpdf.text.pdf.richmedia.RichMediaConfiguration, -8.433589419315876, n, -8.732507939100763
-com.itextpdf.text.pdf.XfaForm$Stack2, -0.8024271477207137, n, -0.9447999751203366
-com.itextpdf.text.pdf.CFFFont$UInt8Item, -3.2469449388595195, n, -3.4336980554469374
-com.itextpdf.text.pdf.PdfEncodings$SymbolTTConversion, -3.870384415503861, n, -3.783191118683118
-com.itextpdf.text.html.simpleparser.HTMLTagProcessors$11, -7.308505005924028, n, -6.516796239876657
-com.itextpdf.text.pdf.BarcodePDF417$SegmentList, -2.8870264582054355, n, -2.4560532270049507
-com.itextpdf.text.html.simpleparser.HTMLTagProcessors$12, -5.648876211184714, n, -5.0374735263340575
-com.itextpdf.text.pdf.PRAcroForm$FieldInformation, -4.28101304870786, n, -4.375973818473209
-com.itextpdf.text.html.simpleparser.HTMLTagProcessors$10, -5.432086271756539, n, -5.238222954548936
-com.itextpdf.text.pdf.ICC_Profile, -3.911580684914656, n, -3.3163349152462995
-com.itextpdf.text.pdf.draw.VerticalPositionMark, -6.2198729149708685, n, -6.4273806114181316
-com.itextpdf.text.xml.simpleparser.EntitiesToSymbol, -6.369558281579694, n, -5.719402268224138
-com.itextpdf.text.html.simpleparser.HTMLTagProcessors$13, -7.190203001699093, n, -6.626344956793469
-com.itextpdf.text.RectangleReadOnly, -3.9821011703638467, n, -3.919935553433123
-com.itextpdf.text.html.simpleparser.HTMLTagProcessors$14, -6.325967665639122, n, -6.0703900183790935
-com.itextpdf.text.pdf.MultiColumnText, -7.9691043567185655, n, -7.433101229579059
-com.itextpdf.text.pdf.BarcodeDatamatrix, -5.852821698941667, n, -5.57678800070549
-com.itextpdf.text.pdf.parser.TaggedPdfReaderTool, -10.118961786974177, n, -9.29692130607064
-com.itextpdf.text.pdf.TSAClient, -2.7774498305539193, n, -3.0723772783111514
-com.itextpdf.text.pdf.PdfImage, -11.558062839394973, n, -10.843421405687826
-com.itextpdf.text.pdf.parser.Vector, -2.4172860342182796, n, -1.9866276899268762
-com.itextpdf.text.pdf.parser.ImageRenderInfo, -7.430159058541549, n, -7.302837511280853
-com.itextpdf.text.xml.xmp.XmpArray, -4.431438032811845, n, -4.258738398046426
-com.itextpdf.text.html.simpleparser.HTMLTagProcessors$3, -4.227052157169487, n, -4.214100130570702
-com.itextpdf.text.html.simpleparser.HTMLTagProcessors$2, -4.3841255602471545, n, -4.068648750590709
-com.itextpdf.text.html.simpleparser.HTMLTagProcessors$5, -6.973413062270918, n, -6.827094385008348
-com.itextpdf.text.html.simpleparser.HTMLTagProcessors$4, -7.190203001699093, n, -6.626344956793469
-com.itextpdf.text.html.simpleparser.HTMLTagProcessors$7, -5.620167473617424, n, -5.064058074798835
-com.itextpdf.text.html.simpleparser.HTMLTagProcessors$6, -4.286768693519994, n, -4.158802082335815
-com.itextpdf.text.pdf.PdfSigGenericPKCS$PPKMS, -5.625410717195655, n, -6.440292662201174
-com.itextpdf.text.pdf.qrcode.BitVector, 0.12266518447185426, n, 0.6529626862850262
-com.itextpdf.text.html.simpleparser.HTMLTagProcessors$9, -5.555452278520862, n, -5.123984925863588
-com.itextpdf.text.html.simpleparser.HTMLTagProcessors$8, -7.216930196951773, n, -6.601595334283701
-com.itextpdf.text.pdf.PdfPTable, -7.553932416035003, n, -7.099526033709304
-com.itextpdf.text.pdf.parser.PdfContentStreamProcessor$SetTextCharacterSpacing, -7.559398311907675, n, -7.431155267845372
-com.itextpdf.text.pdf.PdfGraphics2D$1, -0.7540801391382729, n, -1.1875633328944057
-com.itextpdf.text.pdf.hyphenation.Hyphen, -0.48892083580592915, n, 0.04663334122595275
-com.itextpdf.text.html.simpleparser.HTMLTagProcessors$1, -4.178630290561098, n, -3.839089334224015
-com.itextpdf.text.pdf.codec.TiffWriter$FieldShort, -3.4501147558129333, n, -3.7776472372083423
-com.itextpdf.text.pdf.hyphenation.TernaryTree$Iterator, -5.421005567696298, n, -4.832919727592961
-com.itextpdf.text.pdf.codec.TiffWriter$FieldRational, -3.3300037875430046, n, -3.6638578988473576
-com.itextpdf.text.pdf.FdfWriter, -8.483941311644681, n, -7.8013569468652575
-com.itextpdf.text.xml.simpleparser.handler.NeverNewLineHandler, -2.888895183608523, n, -2.9691778818726955
-com.itextpdf.text.xml.xmp.DublinCoreSchema, -4.62687213994717, n, -5.132640132421672
-com.itextpdf.text.html.simpleparser.TableWrapper, -6.437049928145068, n, -5.7026354172668885
-com.itextpdf.text.pdf.hyphenation.Hyphenator, -4.438317927159234, n, -3.902714334316874
-com.itextpdf.text.pdf.PdfSignatureAppearance$SignatureEvent, -3.0789347956512, n, -3.45100787029188
-com.itextpdf.text.pdf.hyphenation.HyphenationException, -1.3551727858203129, n, -1.776926172330191
-com.itextpdf.text.pdf.codec.TIFFLZWDecoder, -2.548579058300416, n, -2.336663353365199
-com.itextpdf.text.pdf.ByteBuffer, -4.238717686279224, n, -3.9344317389568175
-com.itextpdf.text.pdf.BaseFont$StreamFont, -8.638688174156268, n, -8.535089979611833
-com.itextpdf.text.pdf.fonts.cmaps.CodespaceRange, 0.32489323037206147, n, 0.3575212550428698
-com.itextpdf.text.Document, -7.162456997975469, n, -7.089973072624327
-com.itextpdf.text.html.simpleparser.ChainedProperties, -4.5207052785197686, n, -3.7948647505497215
-com.itextpdf.text.pdf.TrueTypeFontSubSet, -6.485363052829367, n, -5.799296503764901
-com.itextpdf.text.pdf.qrcode.Version$ECB, -0.220402079673658, n, -0.2020174351924957
-com.itextpdf.text.pdf.PdfCopy$IndirectReferences, -2.7396862581934824, n, -2.7871023880137975
-com.itextpdf.text.pdf.parser.FilteredTextRenderListener, -7.019727383322465, n, -7.288212264711483
-com.itextpdf.text.pdf.parser.PdfContentStreamProcessor$TextMoveNextLine, -8.126196231811871, n, -7.663394737243114
-com.itextpdf.text.pdf.PdfPKCS7$X509Name, -8.277602274651315, n, -7.46955676000304
-com.itextpdf.text.Paragraph, -6.665054808980011, n, -7.2701180611344
-com.itextpdf.text.pdf.CFFFont, -9.43798826935967, n, -9.056877039465125
-com.itextpdf.text.pdf.parser.PdfContentStreamProcessor$ImageXObjectDoHandler, -8.960883217685948, n, -8.786583669255196
-com.itextpdf.text.pdf.richmedia.RichMediaWindow, -7.33711806343022, n, -7.614962057309815
-com.itextpdf.text.factories.RomanNumberFactory$RomanDigit, -0.6010926466820399, n, -0.5893628394357854
-com.itextpdf.text.xml.simpleparser.handler.HTMLNewLineHandler, -3.225796091306626, n, -2.882217792018801
-com.itextpdf.text.pdf.qrcode.ByteArray, 0.22513039391084688, n, 0.46520266511309527
-com.itextpdf.text.pdf.PdfIndirectObject, -6.721274908079041, n, -6.238227104506364
-com.itextpdf.text.pdf.PdfAnnotation$PdfImportedLink, -10.079539166919828, n, -9.286796528553644
-com.itextpdf.text.pdf.PdfContentParser, -9.68369164186069, n, -9.05793713818382
-com.itextpdf.text.pdf.ColorDetails, -6.975645137105194, n, -7.0368694211144245
-com.itextpdf.text.pdf.parser.LocationTextExtractionStrategy$TextChunk, -2.370574334271339, n, -1.7230796417270504
-com.itextpdf.text.RomanList, -8.089725581805794, n, -7.7325955511235405
-com.itextpdf.text.html.simpleparser.HTMLWorker, -11.19403547989385, n, -10.671897659132377
-com.itextpdf.text.pdf.codec.TIFFConstants, -0.6010926466820399, n, -0.5893628394357854
-com.itextpdf.text.xml.xmp.PdfA1Schema, -3.880914109727863, n, -4.507472049980358
-com.itextpdf.text.pdf.PdfDate, -3.23677777668881, n, -2.7726675394482174
-com.itextpdf.text.pdf.PdfLiteral, -5.0955338883888714, n, -5.192531149473157
-com.itextpdf.text.pdf.PdfTransition, -5.866326080442106, n, -5.767061680302926
-com.itextpdf.text.pdf.BarcodeQRCode, -8.435109521497075, n, -7.825387533367561
-com.itextpdf.text.pdf.PdfAnnotation, -10.976890016514192, n, -11.32522271986584
-com.itextpdf.text.pdf.codec.JBIG2SegmentReader, -6.078848159008464, n, -5.134512386579985
-com.itextpdf.text.pdf.PdfStructureTreeRoot, -9.793532185692522, n, -9.386536450613512
-com.itextpdf.text.pdf.PdfSignatureAppearance, -12.28916167138036, n, -11.447322649152905
-com.itextpdf.text.pdf.codec.Base64$OutputStream, -5.010867273827641, n, -4.958564549306015
-com.itextpdf.text.pdf.parser.FilteredRenderListener, -6.045082958794681, n, -6.046665925252746
-com.itextpdf.text.pdf.AcroFields$FieldPosition, -3.2360081987288676, n, -3.3055564903118877
-com.itextpdf.text.ElementListener, -4.620261586165577, n, -5.039879300751292
-com.itextpdf.text.pdf.codec.PngImage$NewByteArrayOutputStream, -1.0080597706999685, n, -1.4405475638909986
-com.itextpdf.text.pdf.PdfString, -7.868890038362193, n, -7.979141914518487
-com.itextpdf.text.pdf.PdfOutline, -9.071363848420875, n, -9.163138748586618
-com.itextpdf.text.pdf.CFFFont$Font, -3.2360081987288676, n, -3.3055564903118877
-com.itextpdf.text.pdf.AsianFontMapper, -6.399177114015096, n, -6.20293812812446
-com.itextpdf.text.pdf.interfaces.PdfDocumentActions, -5.163567515624268, n, -5.4868737309673845
-com.itextpdf.text.pdf.PdfBorderDictionary, -8.673721671077029, n, -8.81721640252119
-com.itextpdf.text.pdf.BaseFont, -8.296019536348085, n, -8.597096353985608
-com.itextpdf.text.html.simpleparser.LinkProcessor, -4.620261586165577, n, -5.039879300751292
-com.itextpdf.text.pdf.IntHashtable, -4.883738981410529, n, -4.5328535368021505
-com.itextpdf.text.pdf.PdfIndirectReference, -2.8743509371527782, n, -3.105343320610057
-com.itextpdf.text.Utilities, -1.2763682154230627, n, -0.6702413549354678
-com.itextpdf.text.pdf.hyphenation.HyphenationTree, -7.220847631600443, n, -6.644111049380075
-com.itextpdf.text.pdf.CFFFont$IndexOffsetItem, -3.553482933682262, n, -3.9193676726733173
-com.itextpdf.text.ImgTemplate, -7.638180109466267, n, -7.273204085871799
-com.itextpdf.text.pdf.qrcode.Mode, -2.2168864076610664, n, -2.0220582633546322
-com.itextpdf.text.pdf.TrueTypeFont$FontHeader, -0.6010926466820399, n, -0.5893628394357854
-com.itextpdf.text.pdf.qrcode.QRCode, -3.840782573408019, n, -3.548266975798237
-com.itextpdf.text.pdf.PdfFormXObject, -11.940026530111238, n, -11.780858616656609
-com.itextpdf.text.pdf.parser.MarkedContentInfo, -5.609413170059235, n, -5.285858613766095
-com.itextpdf.text.pdf.PdfPageLabels, -9.707179850285499, n, -8.84361270102005
-com.itextpdf.text.pdf.PdfCopyFields, -9.151556132943991, n, -8.753119523730621
-com.itextpdf.text.pdf.PdfOCProperties, -3.99008833786714, n, -4.493119823206294
-com.itextpdf.text.factories.RomanAlphabetFactory, -2.406795581730742, n, -2.122333643079895
-com.itextpdf.text.pdf.parser.PdfContentStreamProcessor$SetTextLeading, -7.559398311907675, n, -7.431155267845372
-com.itextpdf.text.pdf.richmedia.RichMediaCommand, -7.212587950256328, n, -7.66730624227024
-com.itextpdf.text.pdf.PdfSmartCopy$ByteStore, -8.464547267204852, n, -7.640095127260572
-com.itextpdf.text.Font$1, -3.347453551783471, n, -3.202357093873432
-com.itextpdf.text.pdf.PdfCopy, -13.537046938785808, n, -13.457200768145121
-com.itextpdf.text.MarkedSection, -7.5207897479159165, n, -7.30216307502063
-com.itextpdf.text.pdf.codec.TIFFFaxDecompressor, 0.8241576577144448, n, 1.2078061086258347
-com.itextpdf.text.pdf.fonts.cmaps.CMapParser, -7.087805695974909, n, -6.1856716908002065
-com.itextpdf.text.pdf.AcroFields$Item, -5.708324857409226, n, -5.467310595828675
-com.itextpdf.text.ChapterAutoNumber, -7.4829055110464395, n, -7.902219150110791
-com.itextpdf.text.pdf.PdfPublicKeyRecipient, -0.012300887593627019, n, 0.038074195917480735
-com.itextpdf.text.BaseColor, -1.0726738413698, n, -1.145520671691671
-com.itextpdf.text.factories.RomanNumberFactory, -2.3297583798670702, n, -1.9508423576842437
-com.itextpdf.text.pdf.draw.DrawInterface, -3.0789347956512, n, -3.45100787029188
-com.itextpdf.text.Image, -10.366364268663377, n, -11.143494803211162
-com.itextpdf.text.xml.xmp.XmpWriter, -8.969641189243658, n, -8.080334204499117
-com.itextpdf.text.pdf.parser.ContentOperator, -4.620261586165577, n, -5.039879300751292
-com.itextpdf.text.pdf.SimpleNamedDestination, -10.28192067748902, n, -9.330474718395992
-com.itextpdf.text.xml.xmp.XmpMMSchema, -4.431196941801621, n, -5.187799840180956
-com.itextpdf.text.pdf.Type3Glyph, -9.101140128035468, n, -8.993335584799993
-com.itextpdf.text.pdf.parser.PdfContentReaderTool, -9.381416068521512, n, -8.2447373158509
-com.itextpdf.text.pdf.PdfPCell, -8.527123040671922, n, -8.282606576235253
-com.itextpdf.text.pdf.parser.PdfContentStreamProcessor$PopGraphicsState, -6.228610798911961, n, -6.1605433501241995
-com.itextpdf.text.pdf.PdfPRow, -9.676506605001324, n, -8.638763063129897
-com.itextpdf.text.pdf.PdfDestination, -8.289267542074969, n, -8.351296180441583
-com.itextpdf.text.pdf.BarcodeDatamatrix$ReedSolomon, 0.32489323037206147, n, 0.3575212550428698
-com.itextpdf.text.pdf.parser.RenderListener, -3.8731892592676895, n, -4.121930468583158
-com.itextpdf.text.pdf.MappedRandomAccessFile, -2.6574031169429215, n, -1.9288182168579764
-com.itextpdf.text.exceptions.InvalidPdfException, -1.2728199730883945, n, -2.1592361736469736
-com.itextpdf.text.pdf.PdfPKCS7, -12.277839345427243, n, -11.395747799096048
-com.itextpdf.text.pdf.BadPdfFormatException, -4.170527658284463, n, -4.771373560997108
-com.itextpdf.text.pdf.PdfSigGenericPKCS$VeriSign, -7.724326225665291, n, -8.296582550009566
-com.itextpdf.text.pdf.PdfDashPattern, -6.995603763580015, n, -7.188839334777596
-com.itextpdf.text.pdf.XfaForm, -10.016373975168825, n, -9.237157144214816
-com.itextpdf.text.pdf.parser.TextMarginFinder, -5.895538670057331, n, -5.74633398813956
-com.itextpdf.text.pdf.interfaces.PdfRunDirection, -0.14253427850709216, n, -0.3561836274350485
-com.itextpdf.text.pdf.PdfDocument$PdfInfo, -7.3809545188562025, n, -7.609609105537503
-com.itextpdf.text.exceptions.BadPasswordException, -1.5979323684054942, n, -2.1592361736469736
-com.itextpdf.text.pdf.codec.CCITTG4Encoder, -1.4516757442294628, n, -1.2313511267968935
-com.itextpdf.text.pdf.codec.BmpImage, -8.284635061950247, n, -7.85244611689406
-com.itextpdf.text.pdf.PdfVisibilityExpression, -7.763210788008701, n, -8.08090874702851
-com.itextpdf.text.Font$FontFamily, -3.013351183452495, n, -3.1143723469109896
-com.itextpdf.text.html.simpleparser.ImageProcessor, -5.713850347698026, n, -6.167201521167983
-com.itextpdf.text.List, -5.736779419534257, n, -6.115372876933064
-com.itextpdf.text.pdf.PdfShadingPattern, -9.68365265461752, n, -9.698460410862653
-com.itextpdf.text.pdf.PdfICCBased, -10.028896197617499, n, -10.03888557148037
-com.itextpdf.text.pdf.FontDetails, -9.37792998984719, n, -8.693819227584964
-com.itextpdf.text.pdf.PdfRectangle, -5.4534753291760945, n, -5.68761592570653
-com.itextpdf.text.pdf.parser.PdfContentStreamProcessor, -13.819673195713799, n, -13.16954537840952
-com.itextpdf.text.pdf.Barcode39, -8.215850513175274, n, -7.625066019770575
-com.itextpdf.text.pdf.PdfWriter$PdfBody, -9.296099754950907, n, -8.483115781805031
-com.itextpdf.text.pdf.PdfReader$PageRefs, -9.516988615696041, n, -8.644133330836377
-com.itextpdf.text.html.simpleparser.ChainedProperties$TagAttributes, -0.6010926466820399, n, -0.5893628394357854
-com.itextpdf.text.pdf.DefaultSplitCharacter, -4.055264283796775, n, -3.9533273629093637
-com.itextpdf.text.pdf.CMYKColor, -3.2716513986554725, n, -3.5529401860297143
-com.itextpdf.text.pdf.CFFFontSubset, -10.158057298107178, n, -9.823460770617665
-com.itextpdf.text.pdf.AcroFields$1, -0.7540801391382729, n, -1.1875633328944057
-com.itextpdf.text.pdf.PdfEFStream, -11.20877903582658, n, -10.5542124485455
-com.itextpdf.text.pdf.BaseField, -6.990303849632244, n, -7.096721972798929
-com.itextpdf.text.RtfElementInterface, -0.7540801391382729, n, -1.1875633328944057
-com.itextpdf.text.pdf.fonts.cmaps.CMap, -4.314286601253111, n, -3.843478313834051
-com.itextpdf.text.pdf.ColumnText, -10.489301679587797, n, -9.600798122426523
-com.itextpdf.text.pdf.parser.GraphicsState, -3.280618698183263, n, -3.2375021181078614
-com.itextpdf.text.pdf.parser.Matrix, 0.12777352718368618, n, 0.5553559968582016
-com.itextpdf.text.pdf.collection.PdfCollectionItem, -8.941991659297539, n, -9.002504052555464
-com.itextpdf.text.pdf.DefaultFontMapper, -5.375842387416754, n, -4.923089558196719
-com.itextpdf.text.pdf.PdfStamperImp$PageStamp, -8.2667545470591, n, -7.966031678065977
-com.itextpdf.text.pdf.PdfPageEvent, -5.063080880886917, n, -5.210466013754332
-com.itextpdf.text.pdf.PdfPageLabels$PdfPageLabelFormat, -0.6010926466820399, n, -0.5893628394357854
-com.itextpdf.text.pdf.HyphenationEvent, -2.528651963577442, n, -2.770680080091283
-com.itextpdf.text.pdf.RadioCheckField, -10.429005892878399, n, -9.770732257468868
-com.itextpdf.text.pdf.qrcode.QRCodeWriter, -7.487063386503026, n, -6.736951518030023
-com.itextpdf.text.pdf.PdfStream, -10.184144925286127, n, -10.73615950326286
-com.itextpdf.text.ImgWMF, -9.542340859495013, n, -9.23920944839461
-com.itextpdf.text.pdf.fonts.cmaps.CMapParser$LiteralName, -4.276533453964935, n, -4.393293178167024
-com.itextpdf.text.pdf.ArabicLigaturizer, -3.246154802327812, n, -2.8424495794906464
-com.itextpdf.text.pdf.codec.LZWStringTable, -0.06741458721742533, n, 0.39618305826612477
-com.itextpdf.text.pdf.parser.PdfContentStreamProcessor$ModifyCurrentTransformationMatrix, -8.19036783056769, n, -7.840178576739691
-com.itextpdf.text.pdf.qrcode.GF256, -1.9174013851187315, n, -1.7344520248922537
-com.itextpdf.text.pdf.FdfReader, -9.10890796487977, n, -8.518520440300081
-com.itextpdf.text.html.simpleparser.ElementFactory, -10.682903171427212, n, -9.714440590183239
-com.itextpdf.text.pdf.CFFFont$IndexMarkerItem, -6.171474039462947, n, -6.413793217339791
-com.itextpdf.text.pdf.PdfPublicKeySecurityHandler, -13.19341253733037, n, -12.101498040433457
-com.itextpdf.text.pdf.BarcodeInter25, -8.22565839597218, n, -7.615983832337566
-com.itextpdf.text.pdf.codec.BitFile, -0.3507482874986463, n, -0.0813156777222711
-com.itextpdf.text.pdf.BarcodeCodabar, -8.44246673959894, n, -7.74500181058338
-com.itextpdf.text.LargeElement, -2.528651963577442, n, -2.770680080091283
-com.itextpdf.text.pdf.PdfFunction, -9.476260307027568, n, -8.871018574293617
-com.itextpdf.text.pdf.XfdfReader, -4.635166811000673, n, -3.9742398553819247
-com.itextpdf.text.pdf.OutputStreamEncryption, -6.356686199645549, n, -6.097839025917183
-com.itextpdf.text.pdf.codec.GifImage, -8.76925837266352, n, -8.19188389211431
-com.itextpdf.text.pdf.PdfGraphics2D$FakeComponent, -3.3300037875430046, n, -3.6638578988473576
-com.itextpdf.text.pdf.parser.RegionTextRenderFilter, -7.247430457874614, n, -7.077357175496152
-com.itextpdf.text.pdf.qrcode.Encoder, -9.685475112586252, n, -8.805317871690761
-com.itextpdf.text.xml.xmp.PdfSchema, -5.250453026869529, n, -5.835570712778432
-com.itextpdf.text.ImgRaw, -6.6697756376902175, n, -6.510046060539406
-com.itextpdf.text.pdf.events.PdfPTableEventForwarder, -6.522381709015315, n, -6.100350810073036
-com.itextpdf.text.pdf.draw.DottedLineSeparator, -5.303611943978404, n, -5.314886374949166
-com.itextpdf.text.pdf.AcroFields$SorterComparator, -2.402492140227794, n, -2.4676553288884087
-com.itextpdf.text.html.HtmlUtilities, -3.7290276409915344, n, -2.8321720280535705
-com.itextpdf.text.pdf.PRTokeniser$TokenType, -3.013351183452495, n, -3.1143723469109896
-com.itextpdf.text.pdf.qrcode.BlockPair, -2.855317631720485, n, -2.9182110860685984
-com.itextpdf.text.pdf.internal.PolylineShape, -1.71506957478472, n, -1.3814955758221852
-com.itextpdf.text.pdf.BarcodeDatamatrix$DmParams, -0.6010926466820399, n, -0.5893628394357854
-com.itextpdf.text.pdf.XfaForm$InverseStore, -0.5258431109670658, n, 0.08082369916664656
-com.itextpdf.text.pdf.parser.PdfContentStreamProcessor$SetTextFont, -10.069674733482294, n, -9.711495140681327
-com.itextpdf.text.pdf.PdfPatternPainter, -9.259495074872286, n, -9.285164815179877
-com.itextpdf.text.pdf.richmedia.RichMediaPosition, -6.566306660034102, n, -6.972495719365907
-com.itextpdf.text.pdf.codec.TiffWriter$FieldLong, -3.4501147558129333, n, -3.7776472372083423
-com.itextpdf.text.xml.XMLUtil, -0.03609534431323752, n, 0.4971890984061422
-com.itextpdf.text.DocListener, -3.274609993796747, n, -3.3958481625325954
-com.itextpdf.text.pdf.codec.wmf.MetaPen, -5.861413143929046, n, -5.9610441038611635
-com.itextpdf.text.pdf.IntHashtable$IntHashtableIterator, -4.0070110651519215, n, -3.912626892033912
-com.itextpdf.text.pdf.PdfDocument, -14.72714486466094, n, -13.795591175885002
-com.itextpdf.text.pdf.richmedia.CuePoint, -8.583476786537387, n, -8.942154583555025
-com.itextpdf.text.pdf.codec.GifImage$GifFrame, -3.2360081987288676, n, -3.3055564903118877
-com.itextpdf.text.pdf.parser.PdfContentStreamProcessor$EndText, -6.973413062270918, n, -6.827094385008348
-com.itextpdf.text.pdf.PdfPages, -10.350920670155269, n, -9.586765553339946
-com.itextpdf.text.pdf.XfaForm$AcroFieldsSearch, -5.207909252559314, n, -4.858994548078777
-com.itextpdf.text.pdf.PdfAppearance, -11.408929154569963, n, -11.104519024007642
-com.itextpdf.text.pdf.parser.PdfContentStreamProcessor$BeginMarkedContent, -7.559398311907675, n, -7.431155267845372
-com.itextpdf.text.pdf.Type1Font, -11.458247105695303, n, -10.82328068695967
-com.itextpdf.text.pdf.PdfPSXObject, -9.871778260328108, n, -10.11807378396557
-com.itextpdf.text.Jpeg, -7.287993202043534, n, -7.017745324084034
-com.itextpdf.text.pdf.fonts.cmaps.CMapParser$1, -0.7540801391382729, n, -1.1875633328944057
-com.itextpdf.text.pdf.crypto.ARCFOUREncryption, 0.6109183705200787, n, 0.6680933445269539
-com.itextpdf.text.pdf.parser.PdfContentStreamProcessor$FormXObjectDoHandler, -11.484747348485232, n, -10.821861321212172
-com.itextpdf.text.pdf.PdfCopyForms, -9.151556132943991, n, -8.753119523730621
-com.itextpdf.text.pdf.PdfShading, -9.933815030495383, n, -9.487645216975443
-com.itextpdf.text.pdf.parser.LineSegment, -4.355117451869744, n, -3.94820056312026
-com.itextpdf.text.pdf.qrcode.GF256Poly, -2.565588727261299, n, -1.9284012345080317
-com.itextpdf.text.html.simpleparser.CellWrapper, -7.723452528887276, n, -7.183193636030375
-com.itextpdf.text.pdf.codec.wmf.MetaDo, -10.51810383160965, n, -8.91297797036565
-com.itextpdf.text.xml.simpleparser.IanaEncodings, -0.3279941859558785, n, 0.12262699238382
-com.itextpdf.text.pdf.TrueTypeFontUnicode, -11.638071255694793, n, -11.215482776620497
-com.itextpdf.text.pdf.qrcode.FormatInformation, -1.9913727490795818, n, -1.8610772788420138
-com.itextpdf.text.pdf.parser.PdfContentStreamProcessor$MoveNextLineAndShowTextWithSpacing, -9.081537772689492, n, -8.648205284865503
-com.itextpdf.text.Font, -6.190753165768758, n, -5.951107931182827
-com.itextpdf.text.pdf.PdfEncodings$WingdingsConversion, -3.7990440487920765, n, -3.7156519431002533
-com.itextpdf.text.pdf.RandomAccessFileOrArray, -4.216670919764286, n, -3.6053858505409018
-com.itextpdf.text.pdf.PdfGraphics2D$HyperLinkKey, -0.20868519211544773, n, -0.44614169498696865
-com.itextpdf.text.pdf.OcspClientBouncyCastle, -12.507249216718987, n, -11.24671707248848
-com.itextpdf.text.pdf.PdfImportedPage, -9.921618797559466, n, -10.21944754280579
-com.itextpdf.text.pdf.hyphenation.TernaryTree, -3.7154467314871216, n, -3.5346202569213547
-com.itextpdf.text.pdf.SpotColor, -6.276022149390536, n, -6.359810210775459
-com.itextpdf.text.xml.simpleparser.SimpleXMLDocHandler, 0.46293133013501175, n, 0.37642258267240325
-com.itextpdf.text.pdf.interfaces.PdfViewerPreferences, -4.318776621068297, n, -4.661248708770562
-com.itextpdf.text.pdf.PdfSigGenericPKCS$PPKLite, -7.724326225665291, n, -8.296582550009566
-com.itextpdf.text.pdf.PdfTemplate, -9.113779441257801, n, -9.817361245633926
-com.itextpdf.text.pdf.codec.TiffWriter$FieldBase, -1.6318987755309524, n, -2.3255874650445194
-com.itextpdf.text.pdf.PdfFont, -4.633068014142698, n, -4.3987788779529104
-com.itextpdf.text.pdf.collection.PdfCollectionSchema, -7.2832176217308096, n, -7.601902533034902
-com.itextpdf.text.xml.XmlDomWriter, 0.21795064375730683, n, 1.2492185284325301
-com.itextpdf.text.GreekList, -8.464575609303592, n, -8.074949561252732
-com.itextpdf.text.pdf.parser.SimpleTextExtractionStrategy, -6.773108028445656, n, -6.117791108322568
-com.itextpdf.text.factories.GreekAlphabetFactory, -2.3698733065696054, n, -2.1565240010205886
-com.itextpdf.text.pdf.PageResources, -7.316908509622798, n, -6.646808768266107
-com.itextpdf.text.pdf.PdfTextArray, -2.832676347089241, n, -2.199308835139753
-com.itextpdf.text.pdf.hyphenation.TernaryTree$Iterator$Item, -2.669056586719001, n, -2.852506097249136
-com.itextpdf.text.pdf.interfaces.PdfPageActions, -6.0118208594837865, n, -6.361292778339078
-com.itextpdf.text.pdf.PdfAcroForm, -11.380248447266982, n, -10.974146218861378
-com.itextpdf.text.pdf.PdfPCellEvent, -5.713850347698026, n, -6.167201521167983
-com.itextpdf.text.pdf.AcroFields$InstHit, -3.225796091306626, n, -2.882217792018801
-com.itextpdf.text.xml.xmp.LangAlt, -3.57227346616248, n, -3.5360465261733225
-com.itextpdf.text.pdf.PdfGraphics2D, -9.446423684927714, n, -9.138423092967926
-com.itextpdf.text.pdf.codec.TiffWriter$FieldAscii, -3.875005887321138, n, -3.8169894401034403
-com.itextpdf.text.pdf.richmedia.RichMediaAnnotation, -10.687659438954434, n, -10.326709611361998
-com.itextpdf.text.pdf.PatternColor, -5.09480972419664, n, -5.508239103132729
-com.itextpdf.text.html.HtmlEncoder, -2.6249889050619557, n, -1.7274974677461667
-com.itextpdf.text.pdf.BarcodePDF417$Segment, -0.6010926466820399, n, -0.5893628394357854
-com.itextpdf.text.pdf.fonts.cmaps.CMapParser$Operator, -4.276533453964935, n, -4.393293178167024
-com.itextpdf.text.pdf.CFFFont$OffsetItem, -2.8147128324457693, n, -3.6638578988473576
-com.itextpdf.text.pdf.PdfReader$1, -3.347453551783471, n, -3.202357093873432
-com.itextpdf.text.xml.simpleparser.NewLineHandler, -0.4440192436043722, n, -0.7348142194157781
-com.itextpdf.text.pdf.parser.PdfContentStreamProcessor$Do, -6.921684245566822, n, -6.874995733211917
-com.itextpdf.text.pdf.richmedia.RichMediaPresentation, -6.939952568238003, n, -7.450654613469097
-com.itextpdf.text.pdf.parser.PdfContentStreamProcessor$IgnoreOperatorContentOperator, -6.098264591086973, n, -6.281245107594424
-com.itextpdf.text.pdf.GrayColor, -3.1705754608761145, n, -3.464765168813278
-com.itextpdf.text.pdf.TrueTypeFont, -10.645690356406037, n, -10.668676057304944
-com.itextpdf.text.FontFactory, -4.708765370210244, n, -4.386511827169064
-com.itextpdf.text.pdf.parser.InlineImageUtils$InlineImageParseException, -1.5979323684054942, n, -2.1592361736469736
-com.itextpdf.text.pdf.TrueTypeFont$HorizontalHeader, -0.6010926466820399, n, -0.5893628394357854
-com.itextpdf.text.pdf.DocumentFont, -10.276695593102382, n, -10.214408815109694
-com.itextpdf.text.pdf.parser.PdfContentStreamProcessor$ProcessGraphicsStateResource, -10.74858612764987, n, -10.147308603453036
-com.itextpdf.text.pdf.CFFFont$DictNumberItem, -3.367055907129448, n, -3.547487393807922
-com.itextpdf.text.pdf.HyphenationAuto, -6.38744626120214, n, -5.8686648048144585
-com.itextpdf.text.pdf.parser.PdfContentStreamProcessor$ResourceDictionary, -6.397200705510853, n, -6.442208595365857
-com.itextpdf.text.pdf.hyphenation.PatternConsumer, 0.10626358846938544, n, -0.05448642921518049
-com.itextpdf.text.pdf.CFFFont$RangeItem, -6.1590448622539435, n, -6.118229664704033
-com.itextpdf.text.pdf.parser.PdfContentStreamProcessor$TextMoveStartNextLineWithLeading, -8.163118506973008, n, -7.62920437930242
-com.itextpdf.text.pdf.PdfStamper, -12.795101584937967, n, -12.13704973048202
-com.itextpdf.text.pdf.LZWDecoder, -4.145341781634763, n, -3.8742006128500646
-com.itextpdf.text.pdf.parser.PdfContentStreamProcessor$TextMoveStartNextLine, -7.7474795137685595, n, -7.256990388095271
-com.itextpdf.text.pdf.parser.MarkedContentRenderFilter, -5.0778852779304975, n, -5.2864709969231
-com.itextpdf.text.Header, -3.607188158890601, n, -3.6321958572283495
-com.itextpdf.text.SpecialSymbol, -6.213896328616917, n, -5.754319202482869
-com.itextpdf.text.pdf.BidiLine, -10.040645813252198, n, -9.254924329126968
-com.itextpdf.text.Jpeg2000, -6.630641716288994, n, -6.527560471886655
-com.itextpdf.text.pdf.PdfMediaClipData, -9.2556460460163, n, -8.936157585836579
-com.itextpdf.text.pdf.PdfLine, -6.232740171288713, n, -5.552952068988053
-com.itextpdf.text.pdf.PRAcroForm, -8.932296250203018, n, -8.608709142664544
-com.itextpdf.text.pdf.codec.Base64, -2.744462082149058, n, -1.9388949186827442
-com.itextpdf.text.ImgCCITT, -7.55173637786308, n, -7.353251756616453
-com.itextpdf.text.pdf.PRStream, -9.164696912275678, n, -9.299395826297864
-com.itextpdf.text.pdf.AcroFields, -13.230929517488278, n, -12.155498670358362
-com.itextpdf.text.pdf.PdfContents, -11.542122482335365, n, -11.002632854069486
-com.itextpdf.text.pdf.BarcodeEAN, -7.890272431796084, n, -7.395284051240255
-com.itextpdf.text.pdf.PdfXConformanceException, -1.3372630848883365, n, -1.7428098944631267
-com.itextpdf.text.pdf.qrcode.ErrorCorrectionLevel, 0.4886588158602425, n, 0.628731678286132
-com.itextpdf.text.pdf.TSAClientBouncyCastle, -9.868769012230738, n, -8.80102991673011
-com.itextpdf.text.pdf.richmedia.RichMediaExecuteAction, -8.14842097949637, n, -8.764068626674744
-com.itextpdf.text.ZapfDingbatsNumberList, -8.29416621537359, n, -7.871135282798454
-com.itextpdf.text.pdf.ExtendedColor, -2.017200575257988, n, -2.9718818528935342
-com.itextpdf.text.pdf.parser.PdfContentStreamProcessor$SetTextRenderMode, -7.559398311907675, n, -7.431155267845372
-com.itextpdf.text.pdf.PdfWriter$PdfBody$PdfCrossReference, -2.602100180038685, n, -2.0729055506827
-com.itextpdf.text.pdf.PdfContentByte, -11.685890215185786, n, -11.747720327025759
-com.itextpdf.text.pdf.codec.wmf.MetaState, -6.242660726732065, n, -5.756095876685748
+ClassName,fwbr,fwbr_sub_type,fwbr_sub
+com.itextpdf.text.ExceptionConverter,-0.7065822147411698,n,-0.7149526154872052
+com.itextpdf.text.pdf.qrcode.Version,-5.98607786781364,n,-5.604341732727802
+com.itextpdf.text.pdf.codec.wmf.MetaObject,0.4298227109605415,n,-0.2020174351924957
+com.itextpdf.text.pdf.codec.TiffWriter$FieldImage,-3.6771168026633485,n,-4.000236507286551
+com.itextpdf.text.pdf.parser.LocationTextExtractionStrategy,-7.19050254853882,n,-6.478090148527892
+com.itextpdf.text.pdf.fonts.FontsResourceAnchor,-0.6010926466820399,n,-0.5893628394357854
+com.itextpdf.text.pdf.parser.PdfContentStreamProcessor$SetTextWordSpacing,-7.559398311907675,n,-7.431155267845372
+com.itextpdf.text.pdf.ArabicLigaturizer$charstruct,-0.6010926466820399,n,-0.5893628394357854
+com.itextpdf.text.TextElementArray,-3.0789347956512,n,-3.45100787029188
+com.itextpdf.text.pdf.CMapAwareDocumentFont,-9.914415949134714,n,-9.77429302005196
+com.itextpdf.text.pdf.internal.PdfXConformanceImp,-12.037700733090732,n,-11.410589246810355
+com.itextpdf.text.pdf.IntHashtable$Entry,-0.10477070614665474,n,-0.0709087371376953
+com.itextpdf.text.pdf.PdfEncodings$SymbolConversion,-4.206974069303451,n,-3.893286322950438
+com.itextpdf.text.pdf.ShadingColor,-5.09480972419664,n,-5.508239103132729
+com.itextpdf.text.pdf.qrcode.ByteMatrix,0.11884645778405933,n,0.46188804708558706
+com.itextpdf.text.pdf.qrcode.BitArray,0.2462707719455437,n,0.6239407343566663
+com.itextpdf.text.html.simpleparser.ImageStore,-1.3551727858203129,n,-1.776926172330191
+com.itextpdf.text.pdf.parser.PdfContentStreamProcessor$PushGraphicsState,-7.019041112293983,n,-6.784842401466811
+com.itextpdf.text.pdf.codec.TiffImage,-10.96476301941718,n,-9.8329290343864
+com.itextpdf.text.xml.xmp.XmpReader,-4.735081561056619,n,-3.596350390263356
+com.itextpdf.text.pdf.OcspClient,-0.4440192436043722,n,-0.7348142194157781
+com.itextpdf.text.pdf.BarcodePostnet,-6.783545019576289,n,-6.377496696951782
+com.itextpdf.text.pdf.PdfOCG,-4.318776621068297,n,-4.661248708770562
+com.itextpdf.text.pdf.CFFFont$UInt16Item,-3.2469449388595195,n,-3.4336980554469374
+com.itextpdf.text.exceptions.UnsupportedPdfException,-4.431196941801621,n,-5.187799840180956
+com.itextpdf.text.html.simpleparser.ImageProvider,-5.713850347698026,n,-6.167201521167983
+com.itextpdf.text.pdf.collection.PdfTargetDictionary,-6.895404738838211,n,-7.276505324389312
+com.itextpdf.text.pdf.PdfFileSpecification,-10.01194995913202,n,-9.818729212335942
+com.itextpdf.text.pdf.interfaces.PdfVersion,-3.8731892592676895,n,-4.121930468583158
+com.itextpdf.text.FontFactoryImp,-6.703008212147145,n,-5.996654286563586
+com.itextpdf.text.pdf.richmedia.RichMediaParams,-7.106595866897463,n,-7.542251573426823
+com.itextpdf.text.pdf.collection.PdfCollection,-7.886181037905841,n,-8.25321329808753
+com.itextpdf.text.Section,-8.374220046004575,n,-8.844498061451034
+com.itextpdf.text.xml.xmp.XmpBasicSchema,-4.847783090383355,n,-5.335023770562209
+com.itextpdf.text.pdf.parser.TextRenderInfo,-7.34122273271304,n,-6.860214467070684
+com.itextpdf.text.pdf.PdfLister,-8.824880172014637,n,-7.981463142343527
+com.itextpdf.text.pdf.PdfSignatureAppearance$RangeStream,-3.289950036410306,n,-3.0240662945158703
+com.itextpdf.text.pdf.CFFFont$UInt32Item,-3.2469449388595195,n,-3.4336980554469374
+com.itextpdf.text.Annotation,-3.7546334751815036,n,-3.518323366619842
+com.itextpdf.text.html.HtmlTags,-0.6010926466820399,n,-0.5893628394357854
+com.itextpdf.text.pdf.crypto.IVGenerator,-2.864246748990621,n,-2.149293850133218
+com.itextpdf.text.pdf.qrcode.MaskUtil,-3.7996050891028252,n,-3.316647155311551
+com.itextpdf.text.pdf.SequenceList,0.045178677027858605,n,0.8735712980942523
+com.itextpdf.text.pdf.StampContent,-8.903251043377677,n,-9.176582651983104
+com.itextpdf.text.pdf.PRTokeniser,-4.682955033241893,n,-4.232292801413264
+com.itextpdf.text.pdf.PdfSignatureAppearance$1,-3.347453551783471,n,-3.202357093873432
+com.itextpdf.text.pdf.codec.PngWriter,-1.678337589161264,n,-1.2089428925910637
+com.itextpdf.text.pdf.qrcode.ReedSolomonException,-1.3551727858203129,n,-1.776926172330191
+com.itextpdf.text.pdf.PdfNull,-3.0562042991151097,n,-3.3853124263212906
+com.itextpdf.text.Anchor,-8.362815783911806,n,-8.520749986515174
+com.itextpdf.text.pdf.BarcodePDF417,-5.809627867372265,n,-5.394258026206282
+com.itextpdf.text.pdf.internal.PolylineShapeIterator,-4.268673720266557,n,-4.028248233864915
+com.itextpdf.text.pdf.codec.TiffWriter,-4.072360004330779,n,-3.320026933854058
+com.itextpdf.text.pdf.richmedia.RichMediaActivation,-8.03354132977045,n,-8.577976833885785
+com.itextpdf.text.pdf.PdfBorderArray,-7.2832176217308096,n,-7.601902533034902
+com.itextpdf.text.html.simpleparser.StyleSheet,-5.726775488427416,n,-4.675496157815571
+com.itextpdf.text.pdf.Barcode,-4.965378158380363,n,-5.833131037180045
+com.itextpdf.text.pdf.PdfNumberTree,-9.130924686964624,n,-8.20927386456466
+com.itextpdf.text.pdf.PdfGraphics2D$Kid,-3.2360081987288676,n,-3.3055564903118877
+com.itextpdf.text.pdf.PdfLayerMembership,-9.040188888585252,n,-9.195100876592491
+com.itextpdf.text.pdf.XfaForm$Xml2SomDatasets,-5.511190723160095,n,-4.339968799295782
+com.itextpdf.text.pdf.PdfEncryption,-9.683836912904285,n,-9.05457339752268
+com.itextpdf.text.pdf.CFFFont$UInt24Item,-3.2469449388595195,n,-3.4336980554469374
+com.itextpdf.text.pdf.parser.XObjectDoHandler,-5.713850347698026,n,-6.167201521167983
+com.itextpdf.text.error_messages.MessageLocalization,-2.1344139908213307,n,-1.3251343390787493
+com.itextpdf.text.pdf.PdfFormField,-10.010586294902957,n,-10.203640689985672
+com.itextpdf.text.pdf.PdfCopy$PageStamp,-12.133664911739519,n,-10.952082258929725
+com.itextpdf.text.pdf.PdfResources,-6.546409630925894,n,-6.624284089224754
+com.itextpdf.text.pdf.PdfDeveloperExtension,-6.629659939460183,n,-6.548076559313691
+com.itextpdf.text.pdf.PdfReaderInstance,-11.35704234955883,n,-10.310356473317261
+com.itextpdf.text.pdf.PdfColor,-7.440291024808477,n,-7.45645115305491
+com.itextpdf.text.pdf.BarcodeEANSUPP,-8.446352570277124,n,-7.924820167618744
+com.itextpdf.text.pdf.PdfDictionary,-6.326808763028031,n,-7.87360162136801
+com.itextpdf.text.SplitCharacter,-3.0789347956512,n,-3.45100787029188
+com.itextpdf.text.pdf.interfaces.PdfEncryptionSettings,-2.7774498305539193,n,-3.0723772783111514
+com.itextpdf.text.pdf.codec.JBIG2Image,-8.052287353508321,n,-7.548192457783709
+com.itextpdf.text.pdf.codec.Base64$InputStream,-5.05573071103155,n,-5.021962213540043
+com.itextpdf.text.pdf.codec.TIFFField,0.6219093898016166,n,0.9305263581813867
+com.itextpdf.text.pdf.MultiColumnText$ColumnDef,-2.72734692975218,n,-2.439376803405504
+com.itextpdf.text.pdf.CFFFont$DictOffsetItem,-3.6800274423332398,n,-4.040370709727666
+com.itextpdf.text.pdf.codec.TIFFDirectory,-3.8097041044475586,n,-3.1243763230520485
+com.itextpdf.text.exceptions.IllegalPdfSyntaxException,-1.7962813897547942,n,-2.4716061893048535
+com.itextpdf.text.pdf.PdfNameTree,-9.479640809985959,n,-8.595348275123186
+com.itextpdf.text.pdf.ExtraEncoding,0.10626358846938544,n,-0.05448642921518049
+com.itextpdf.text.pdf.events.IndexEvents,-7.833918585877479,n,-7.406021021631224
+com.itextpdf.text.pdf.PdfCopy$RefKey,-4.425747123344225,n,-3.8827968538849222
+com.itextpdf.text.pdf.PdfSignature,-7.659785125749346,n,-8.21607227750446
+com.itextpdf.text.pdf.parser.PdfContentStreamProcessor$SetTextHorizontalScaling,-7.559398311907675,n,-7.431155267845372
+com.itextpdf.text.pdf.events.IndexEvents$Entry,-2.1886750332344316,n,-1.5562008416796789
+com.itextpdf.text.pdf.hyphenation.CharVector,-2.283698044480947,n,-2.1103313665222085
+com.itextpdf.text.pdf.PdfTransparencyGroup,-6.9826909380502356,n,-7.348106683018605
+com.itextpdf.text.pdf.PdfWriter,-13.976691973511365,n,-14.24000248664314
+com.itextpdf.text.pdf.OutputStreamCounter,-0.4102080430080399,n,-0.2638155484892132
+com.itextpdf.text.pdf.parser.PdfContentStreamProcessor$TextSetTextMatrix,-7.682764318671998,n,-7.316917239160024
+com.itextpdf.text.pdf.Pfm2afm,-4.285173639060486,n,-3.437641976572733
+com.itextpdf.text.pdf.codec.wmf.Point,-0.2539796315616957,n,-0.25298423099659273
+com.itextpdf.text.pdf.codec.TIFFFaxDecoder,-1.8473975024626408,n,-1.675414779532201
+com.itextpdf.text.BadElementException,-3.7422816247290713,n,-4.139803986087592
+com.itextpdf.text.MarkedObject,-4.356611838629279,n,-4.52593675874357
+com.itextpdf.text.pdf.FontMapper,-2.7774498305539193,n,-3.0723772783111514
+com.itextpdf.text.pdf.parser.PdfContentStreamProcessor$BeginText,-7.059856793874105,n,-6.747046714263694
+com.itextpdf.text.pdf.PdfCopyFieldsImp,-11.720266720103805,n,-11.431435095408053
+com.itextpdf.text.pdf.Type3Font,-10.417419840467224,n,-10.079355345232392
+com.itextpdf.text.pdf.DefaultFontMapper$BaseFontParameters,-0.6010926466820399,n,-0.5893628394357854
+com.itextpdf.text.pdf.PdfDocument$Destination,-6.719177094635212,n,-6.896169188559684
+com.itextpdf.text.Chunk,-8.208063498032962,n,-7.82489315972418
+com.itextpdf.text.pdf.PdfBoolean,-5.932042815403527,n,-5.895640394625825
+com.itextpdf.text.pdf.richmedia.RichMediaInstance,-8.433589419315876,n,-8.732507939100763
+com.itextpdf.text.pdf.AcroFields$RevisionStream,-4.67909047202115,n,-4.559252840154993
+com.itextpdf.text.ImgJBIG2,-3.3593484121979897,n,-3.272835329799422
+com.itextpdf.text.pdf.PdfPrinterGraphics2D,-6.6407614256487335,n,-7.36903420532097
+com.itextpdf.text.PageSize,-5.767178215409649,n,-4.927924809417245
+com.itextpdf.text.pdf.PdfPageElement,-2.7774498305539193,n,-3.0723772783111514
+com.itextpdf.text.ZapfDingbatsList,-8.276144794982839,n,-7.887823279707379
+com.itextpdf.text.xml.simpleparser.EntitiesToUnicode,-0.34643198880206594,n,0.6753361842349619
+com.itextpdf.text.pdf.FdfWriter$Wrt,-11.525104929355859,n,-11.025885933808313
+com.itextpdf.text.pdf.MappedRandomAccessFile$1,-0.28236613593281423,n,0.08037500884228296
+com.itextpdf.text.pdf.PdfDocument$PdfCatalog,-11.180065820894232,n,-10.80975962171082
+com.itextpdf.text.pdf.PdfObject,-3.654639814648906,n,-4.514435523160481
+com.itextpdf.text.pdf.EnumerateTTC,-7.480265409189299,n,-7.099190217613746
+com.itextpdf.text.pdf.VerticalText,-8.084601071813086,n,-7.470125150496985
+com.itextpdf.text.pdf.PdfException,-3.4171692294119715,n,-4.139803986087592
+com.itextpdf.text.pdf.parser.InlineImageUtils,-8.46237306298696,n,-7.5851270946515825
+com.itextpdf.text.pdf.qrcode.BitMatrix,-2.462657797779053,n,-2.023716198355941
+com.itextpdf.text.pdf.TrueTypeFont$WindowsMetrics,-0.6010926466820399,n,-0.5893628394357854
+com.itextpdf.text.pdf.XfaForm$Xml2Som,-2.7054117420804027,n,-2.5378713923348872
+com.itextpdf.text.pdf.hyphenation.Hyphenation,-0.1521479140558596,n,0.3321148957054849
+com.itextpdf.text.pdf.parser.PdfContentStreamProcessor$ShowText,-6.921684245566822,n,-6.874995733211917
+com.itextpdf.text.pdf.draw.LineSeparator,-4.6072137977187895,n,-4.926168418454925
+com.itextpdf.text.pdf.PdfSpotColor,-10.20351303859306,n,-9.44216826544332
+com.itextpdf.text.pdf.codec.JBIG2SegmentReader$JBIG2Segment,-0.10029111140372948,n,-0.08822809683151081
+com.itextpdf.text.pdf.PushbuttonField,-11.588142710143593,n,-11.003499596745694
+com.itextpdf.text.pdf.BidiOrder,-2.593997597302418,n,-2.3274828254537065
+com.itextpdf.text.pdf.Barcode128,-8.338320646777516,n,-7.624551393850801
+com.itextpdf.text.pdf.events.PdfPCellEventForwarder,-6.643927558920238,n,-6.225982649957251
+com.itextpdf.text.DocumentException,-0.3493155349998266,n,-1.041300333894707
+com.itextpdf.text.pdf.qrcode.ReedSolomonEncoder,-4.8928662529192835,n,-4.04757665089423
+com.itextpdf.text.pdf.PdfEncodings$Cp437Conversion,-5.0616461133397275,n,-4.758904390963765
+com.itextpdf.text.pdf.PdfPTableEventSplit,-4.620261586165577,n,-5.039879300751292
+com.itextpdf.text.pdf.qrcode.MatrixUtil,-6.071734161472357,n,-5.652784608914459
+com.itextpdf.text.pdf.CFFFont$StringItem,-3.4785012601840517,n,-3.4442879973694667
+com.itextpdf.text.pdf.PdfEncodings$1,-0.7540801391382729,n,-1.1875633328944057
+com.itextpdf.text.pdf.PdfLayer,-9.09447440347251,n,-9.211121499975162
+com.itextpdf.text.pdf.TextField,-11.420263187264979,n,-10.778246840887505
+com.itextpdf.text.pdf.CFFFont$Item,1.3771771460748004,n,0.19330192450131983
+com.itextpdf.text.pdf.events.IndexEvents$1,-4.3841255602471545,n,-4.068648750590709
+com.itextpdf.text.pdf.PdfReader,-11.491153092992535,n,-11.004226990572652
+com.itextpdf.text.pdf.CJKFont,-9.461766303384925,n,-9.076602497323373
+com.itextpdf.text.pdf.qrcode.Version$ECBlocks,-2.6159015766975764,n,-2.5425761998439596
+com.itextpdf.text.pdf.parser.PdfContentStreamProcessor$ShowTextArray,-8.671813255862963,n,-8.270514435487769
+com.itextpdf.text.pdf.PRIndirectReference,-7.152984230817344,n,-7.2076447096823735
+com.itextpdf.text.html.WebColors,-5.338869718403668,n,-4.759772953350166
+com.itextpdf.text.pdf.parser.PdfContentStreamProcessor$EndMarkedContent,-6.168894262561454,n,-6.215841398359086
+com.itextpdf.text.pdf.PdfPageEventHelper,-5.202690317062689,n,-5.81661043935085
+com.itextpdf.text.pdf.parser.ContentByteUtils,-8.476106785134245,n,-7.575581742129853
+com.itextpdf.text.html.simpleparser.HTMLTagProcessor,-4.318776621068297,n,-4.661248708770562
+com.itextpdf.text.pdf.interfaces.PdfXConformance,0.10626358846938544,n,-0.05448642921518049
+com.itextpdf.text.pdf.hyphenation.SimplePatternParser,-6.066622081054061,n,-5.308760639304409
+com.itextpdf.text.pdf.CFFFont$SubrMarkerItem,-6.171474039462947,n,-6.413793217339791
+com.itextpdf.text.Chapter,-4.8529716401126155,n,-5.626391189830119
+com.itextpdf.text.pdf.richmedia.RichMediaDeactivation,-6.36433460639681,n,-6.792887194898548
+com.itextpdf.text.pdf.codec.LZWCompressor,-4.735792849841616,n,-4.193028030874222
+com.itextpdf.text.ListItem,-6.545336536899039,n,-6.868833946678079
+com.itextpdf.text.Meta,-4.154200617161355,n,-4.253116244797312
+com.itextpdf.text.pdf.crypto.AESCipher,-8.575742516475495,n,-7.93334450572856
+com.itextpdf.text.pdf.codec.wmf.MetaBrush,-5.820597462348924,n,-5.998839791064281
+com.itextpdf.text.pdf.PdfSmartCopy,-12.783431829017223,n,-12.444135936551609
+com.itextpdf.text.pdf.parser.PdfContentStreamProcessor$BeginMarkedContentDictionary,-8.354872633122303,n,-8.144154415559532
+com.itextpdf.text.pdf.collection.PdfCollectionField,-8.978014742541479,n,-8.978029882943137
+com.itextpdf.text.pdf.PdfPage,-7.705896851544902,n,-8.034797663165094
+com.itextpdf.text.pdf.PdfPattern,-10.92665245207997,n,-10.700294507168888
+com.itextpdf.text.pdf.internal.PdfViewerPreferencesImp,-7.853834377116229,n,-7.591545606571938
+com.itextpdf.text.pdf.interfaces.PdfAnnotations,-4.966778020800139,n,-5.2492526889998485
+com.itextpdf.text.pdf.PdfStamperImp,-14.584438691098562,n,-13.894496227224856
+com.itextpdf.text.Font$FontStyle,-2.848487792336408,n,-2.963199081062789
+com.itextpdf.text.pdf.qrcode.CharacterSetECI,0.4994730174654751,n,0.7712927409654097
+com.itextpdf.text.pdf.PdfName,-6.0999187205278655,n,-5.5898018623601695
+com.itextpdf.text.Element,-2.0381008368907017,n,-2.1775721781451263
+com.itextpdf.text.pdf.internal.PdfAnnotationsImp,-10.776866040043888,n,-9.721639092425976
+com.itextpdf.text.xml.xmp.XmpSchema,-3.7956381910482957,n,-4.646145580513601
+com.itextpdf.text.pdf.events.FieldPositioningEvents,-11.318265845393753,n,-11.024227212588821
+com.itextpdf.text.pdf.parser.PdfContentStreamProcessor$1,-0.7540801391382729,n,-1.1875633328944057
+com.itextpdf.text.DocWriter,-6.127050595870826,n,-6.135147539358339
+com.itextpdf.text.pdf.parser.PdfImageObject,-11.288789354505786,n,-10.379942619557207
+com.itextpdf.text.pdf.PdfPKCS7$X509NameTokenizer,-0.5595505072804106,n,0.11203705046129087
+com.itextpdf.text.pdf.PdfDocument$Indentation,-0.6010926466820399,n,-0.5893628394357854
+com.itextpdf.text.Rectangle,-3.814818724704814,n,-4.196921186110851
+com.itextpdf.text.pdf.PdfChunk,-7.884054358578894,n,-7.1637599436204615
+com.itextpdf.text.xml.simpleparser.SimpleXMLDocHandlerComment,-0.4440192436043722,n,-0.7348142194157781
+com.itextpdf.text.pdf.XfaForm$Xml2SomTemplate,-5.241903576398288,n,-4.39472029796757
+com.itextpdf.text.pdf.codec.TiffWriter$FieldUndefined,-3.6771168026633485,n,-4.000236507286551
+com.itextpdf.text.pdf.PdfStructureElement,-9.8163014562718,n,-9.732997057208928
+com.itextpdf.text.pdf.codec.PngImage,-9.63178307783254,n,-8.84538016339589
+com.itextpdf.text.pdf.parser.PdfContentStreamProcessor$IgnoreXObjectDoHandler,-6.791338037741833,n,-6.995697490682142
+com.itextpdf.text.pdf.parser.PdfTextExtractor,-7.019041112293983,n,-6.784842401466811
+com.itextpdf.text.pdf.PdfContentByte$GraphicState,-4.55033294239283,n,-4.671838650693092
+com.itextpdf.text.pdf.SimpleBookmark,-10.965625531391211,n,-9.810043258603574
+com.itextpdf.text.pdf.qrcode.WriterException,-1.094503502303155,n,-1.3604998931463441
+com.itextpdf.text.pdf.collection.PdfCollectionSort,-8.273762359299486,n,-8.23564617879225
+com.itextpdf.text.pdf.CFFFont$IndexBaseItem,-3.6771168026633485,n,-4.000236507286551
+com.itextpdf.text.pdf.parser.PdfContentStreamProcessor$MoveNextLineAndShowText,-7.402038433867832,n,-7.187282873354314
+com.itextpdf.text.pdf.codec.wmf.InputMeta,-4.089905848814794,n,-3.9255347838246104
+com.itextpdf.text.pdf.PdfContentParser$1,-3.347453551783471,n,-3.202357093873432
+com.itextpdf.text.pdf.events.PdfPageEventForwarder,-6.692674580072904,n,-6.1998824978090665
+com.itextpdf.text.xml.simpleparser.SimpleXMLParser,-8.173059941916597,n,-7.2726195368500095
+com.itextpdf.text.html.simpleparser.HTMLTagProcessors,-12.271443646942586,n,-11.860162584206252
+com.itextpdf.text.pdf.codec.JBIG2SegmentReader$JBIG2Page,-4.8928662529192835,n,-4.04757665089423
+com.itextpdf.text.pdf.PdfSignatureAppearance$RenderingMode,-3.013351183452495,n,-3.1143723469109896
+com.itextpdf.text.pdf.codec.wmf.MetaFont,-8.500304355089108,n,-8.284272018314462
+com.itextpdf.text.pdf.PdfNumber,-5.750668818576175,n,-5.630799141006081
+com.itextpdf.text.pdf.parser.TextExtractionStrategy,-3.0789347956512,n,-3.45100787029188
+com.itextpdf.text.pdf.PdfAction,-10.51643153785102,n,-10.798707115836928
+com.itextpdf.text.pdf.GlyphList,-5.832713294926309,n,-4.722443255330515
+com.itextpdf.text.pdf.PdfWriter$PdfTrailer,-9.387879882845835,n,-9.374219407717185
+com.itextpdf.text.pdf.parser.PdfReaderContentParser,-8.085380550231749,n,-7.7011904244462315
+com.itextpdf.text.pdf.PdfEncodings,-8.322582106102686,n,-7.439519986599656
+com.itextpdf.text.pdf.BarcodeDatamatrix$Placement,0.27002713213634333,n,0.6486410550623098
+com.itextpdf.text.pdf.PdfPTableEvent,-4.620261586165577,n,-5.039879300751292
+com.itextpdf.text.pdf.hyphenation.ByteVector,0.2977600079402738,n,0.4908233093961084
+com.itextpdf.text.Phrase,-8.70679782192874,n,-9.16229292384215
+com.itextpdf.text.pdf.qrcode.EncodeHintType,-0.2539796315616957,n,-0.25298423099659273
+com.itextpdf.text.pdf.PdfArray,-7.757146321016877,n,-8.473054986609911
+com.itextpdf.text.pdf.internal.PdfVersionImp,-8.159184382351642,n,-7.748665988652474
+com.itextpdf.text.pdf.PdfGState,-6.64516523307499,n,-6.98753462991334
+com.itextpdf.text.pdf.richmedia.RichMediaAnimation,-6.79681457835008,n,-7.100379980050617
+com.itextpdf.text.pdf.parser.PdfContentStreamProcessor$SetTextRise,-7.559398311907675,n,-7.431155267845372
+com.itextpdf.text.pdf.PdfSigGenericPKCS,-8.417717834550567,n,-8.923156002686941
+com.itextpdf.text.pdf.PdfEncryptor,-4.1047335312164375,n,-3.8161069267771985
+com.itextpdf.text.pdf.PdfCopy$StampContent,-5.931341787701794,n,-6.329084753919363
+com.itextpdf.text.pdf.parser.RenderFilter,-3.6411315305977707,n,-4.27950383980604
+com.itextpdf.text.pdf.PdfRendition,-9.218723770855163,n,-8.970347943777272
+com.itextpdf.text.pdf.FontSelector,-9.253864535054209,n,-8.18155607518054
+com.itextpdf.text.pdf.PdfCopyFormsImp,-9.101941161110997,n,-8.720715784019104
+com.itextpdf.text.FontProvider,-4.318776621068297,n,-4.661248708770562
+com.itextpdf.text.pdf.StandardDecryption,-4.766800648624833,n,-4.164314531104114
+com.itextpdf.text.pdf.codec.TiffWriter$FieldByte,-3.6771168026633485,n,-4.000236507286551
+com.itextpdf.text.pdf.CFFFont$MarkerItem,-5.0778852779304975,n,-5.2864709969231
+com.itextpdf.text.pdf.richmedia.RichMediaConfiguration,-8.433589419315876,n,-8.732507939100763
+com.itextpdf.text.pdf.XfaForm$Stack2,-0.8024271477207137,n,-0.9447999751203366
+com.itextpdf.text.pdf.CFFFont$UInt8Item,-3.2469449388595195,n,-3.4336980554469374
+com.itextpdf.text.pdf.PdfEncodings$SymbolTTConversion,-3.870384415503861,n,-3.783191118683118
+com.itextpdf.text.html.simpleparser.HTMLTagProcessors$11,-7.308505005924028,n,-6.516796239876657
+com.itextpdf.text.pdf.BarcodePDF417$SegmentList,-2.8870264582054355,n,-2.4560532270049507
+com.itextpdf.text.html.simpleparser.HTMLTagProcessors$12,-5.648876211184714,n,-5.0374735263340575
+com.itextpdf.text.pdf.PRAcroForm$FieldInformation,-4.28101304870786,n,-4.375973818473209
+com.itextpdf.text.html.simpleparser.HTMLTagProcessors$10,-5.432086271756539,n,-5.238222954548936
+com.itextpdf.text.pdf.ICC_Profile,-3.911580684914656,n,-3.3163349152462995
+com.itextpdf.text.pdf.draw.VerticalPositionMark,-6.2198729149708685,n,-6.4273806114181316
+com.itextpdf.text.xml.simpleparser.EntitiesToSymbol,-6.369558281579694,n,-5.719402268224138
+com.itextpdf.text.html.simpleparser.HTMLTagProcessors$13,-7.190203001699093,n,-6.626344956793469
+com.itextpdf.text.RectangleReadOnly,-3.9821011703638467,n,-3.919935553433123
+com.itextpdf.text.html.simpleparser.HTMLTagProcessors$14,-6.325967665639122,n,-6.0703900183790935
+com.itextpdf.text.pdf.MultiColumnText,-7.9691043567185655,n,-7.433101229579059
+com.itextpdf.text.pdf.BarcodeDatamatrix,-5.852821698941667,n,-5.57678800070549
+com.itextpdf.text.pdf.parser.TaggedPdfReaderTool,-10.118961786974177,n,-9.29692130607064
+com.itextpdf.text.pdf.TSAClient,-2.7774498305539193,n,-3.0723772783111514
+com.itextpdf.text.pdf.PdfImage,-11.558062839394973,n,-10.843421405687826
+com.itextpdf.text.pdf.parser.Vector,-2.4172860342182796,n,-1.9866276899268762
+com.itextpdf.text.pdf.parser.ImageRenderInfo,-7.430159058541549,n,-7.302837511280853
+com.itextpdf.text.xml.xmp.XmpArray,-4.431438032811845,n,-4.258738398046426
+com.itextpdf.text.html.simpleparser.HTMLTagProcessors$3,-4.227052157169487,n,-4.214100130570702
+com.itextpdf.text.html.simpleparser.HTMLTagProcessors$2,-4.3841255602471545,n,-4.068648750590709
+com.itextpdf.text.html.simpleparser.HTMLTagProcessors$5,-6.973413062270918,n,-6.827094385008348
+com.itextpdf.text.html.simpleparser.HTMLTagProcessors$4,-7.190203001699093,n,-6.626344956793469
+com.itextpdf.text.html.simpleparser.HTMLTagProcessors$7,-5.620167473617424,n,-5.064058074798835
+com.itextpdf.text.html.simpleparser.HTMLTagProcessors$6,-4.286768693519994,n,-4.158802082335815
+com.itextpdf.text.pdf.PdfSigGenericPKCS$PPKMS,-5.625410717195655,n,-6.440292662201174
+com.itextpdf.text.pdf.qrcode.BitVector,0.12266518447185426,n,0.6529626862850262
+com.itextpdf.text.html.simpleparser.HTMLTagProcessors$9,-5.555452278520862,n,-5.123984925863588
+com.itextpdf.text.html.simpleparser.HTMLTagProcessors$8,-7.216930196951773,n,-6.601595334283701
+com.itextpdf.text.pdf.PdfPTable,-7.553932416035003,n,-7.099526033709304
+com.itextpdf.text.pdf.parser.PdfContentStreamProcessor$SetTextCharacterSpacing,-7.559398311907675,n,-7.431155267845372
+com.itextpdf.text.pdf.PdfGraphics2D$1,-0.7540801391382729,n,-1.1875633328944057
+com.itextpdf.text.pdf.hyphenation.Hyphen,-0.48892083580592915,n,0.04663334122595275
+com.itextpdf.text.html.simpleparser.HTMLTagProcessors$1,-4.178630290561098,n,-3.839089334224015
+com.itextpdf.text.pdf.codec.TiffWriter$FieldShort,-3.4501147558129333,n,-3.7776472372083423
+com.itextpdf.text.pdf.hyphenation.TernaryTree$Iterator,-5.421005567696298,n,-4.832919727592961
+com.itextpdf.text.pdf.codec.TiffWriter$FieldRational,-3.3300037875430046,n,-3.6638578988473576
+com.itextpdf.text.pdf.FdfWriter,-8.483941311644681,n,-7.8013569468652575
+com.itextpdf.text.xml.simpleparser.handler.NeverNewLineHandler,-2.888895183608523,n,-2.9691778818726955
+com.itextpdf.text.xml.xmp.DublinCoreSchema,-4.62687213994717,n,-5.132640132421672
+com.itextpdf.text.html.simpleparser.TableWrapper,-6.437049928145068,n,-5.7026354172668885
+com.itextpdf.text.pdf.hyphenation.Hyphenator,-4.438317927159234,n,-3.902714334316874
+com.itextpdf.text.pdf.PdfSignatureAppearance$SignatureEvent,-3.0789347956512,n,-3.45100787029188
+com.itextpdf.text.pdf.hyphenation.HyphenationException,-1.3551727858203129,n,-1.776926172330191
+com.itextpdf.text.pdf.codec.TIFFLZWDecoder,-2.548579058300416,n,-2.336663353365199
+com.itextpdf.text.pdf.ByteBuffer,-4.238717686279224,n,-3.9344317389568175
+com.itextpdf.text.pdf.BaseFont$StreamFont,-8.638688174156268,n,-8.535089979611833
+com.itextpdf.text.pdf.fonts.cmaps.CodespaceRange,0.32489323037206147,n,0.3575212550428698
+com.itextpdf.text.Document,-7.162456997975469,n,-7.089973072624327
+com.itextpdf.text.html.simpleparser.ChainedProperties,-4.5207052785197686,n,-3.7948647505497215
+com.itextpdf.text.pdf.TrueTypeFontSubSet,-6.485363052829367,n,-5.799296503764901
+com.itextpdf.text.pdf.qrcode.Version$ECB,-0.220402079673658,n,-0.2020174351924957
+com.itextpdf.text.pdf.PdfCopy$IndirectReferences,-2.7396862581934824,n,-2.7871023880137975
+com.itextpdf.text.pdf.parser.FilteredTextRenderListener,-7.019727383322465,n,-7.288212264711483
+com.itextpdf.text.pdf.parser.PdfContentStreamProcessor$TextMoveNextLine,-8.126196231811871,n,-7.663394737243114
+com.itextpdf.text.pdf.PdfPKCS7$X509Name,-8.277602274651315,n,-7.46955676000304
+com.itextpdf.text.Paragraph,-6.665054808980011,n,-7.2701180611344
+com.itextpdf.text.pdf.CFFFont,-9.43798826935967,n,-9.056877039465125
+com.itextpdf.text.pdf.parser.PdfContentStreamProcessor$ImageXObjectDoHandler,-8.960883217685948,n,-8.786583669255196
+com.itextpdf.text.pdf.richmedia.RichMediaWindow,-7.33711806343022,n,-7.614962057309815
+com.itextpdf.text.factories.RomanNumberFactory$RomanDigit,-0.6010926466820399,n,-0.5893628394357854
+com.itextpdf.text.xml.simpleparser.handler.HTMLNewLineHandler,-3.225796091306626,n,-2.882217792018801
+com.itextpdf.text.pdf.qrcode.ByteArray,0.22513039391084688,n,0.46520266511309527
+com.itextpdf.text.pdf.PdfIndirectObject,-6.721274908079041,n,-6.238227104506364
+com.itextpdf.text.pdf.PdfAnnotation$PdfImportedLink,-10.079539166919828,n,-9.286796528553644
+com.itextpdf.text.pdf.PdfContentParser,-9.68369164186069,n,-9.05793713818382
+com.itextpdf.text.pdf.ColorDetails,-6.975645137105194,n,-7.0368694211144245
+com.itextpdf.text.pdf.parser.LocationTextExtractionStrategy$TextChunk,-2.370574334271339,n,-1.7230796417270504
+com.itextpdf.text.RomanList,-8.089725581805794,n,-7.7325955511235405
+com.itextpdf.text.html.simpleparser.HTMLWorker,-11.19403547989385,n,-10.671897659132377
+com.itextpdf.text.pdf.codec.TIFFConstants,-0.6010926466820399,n,-0.5893628394357854
+com.itextpdf.text.xml.xmp.PdfA1Schema,-3.880914109727863,n,-4.507472049980358
+com.itextpdf.text.pdf.PdfDate,-3.23677777668881,n,-2.7726675394482174
+com.itextpdf.text.pdf.PdfLiteral,-5.0955338883888714,n,-5.192531149473157
+com.itextpdf.text.pdf.PdfTransition,-5.866326080442106,n,-5.767061680302926
+com.itextpdf.text.pdf.BarcodeQRCode,-8.435109521497075,n,-7.825387533367561
+com.itextpdf.text.pdf.PdfAnnotation,-10.976890016514192,n,-11.32522271986584
+com.itextpdf.text.pdf.codec.JBIG2SegmentReader,-6.078848159008464,n,-5.134512386579985
+com.itextpdf.text.pdf.PdfStructureTreeRoot,-9.793532185692522,n,-9.386536450613512
+com.itextpdf.text.pdf.PdfSignatureAppearance,-12.28916167138036,n,-11.447322649152905
+com.itextpdf.text.pdf.codec.Base64$OutputStream,-5.010867273827641,n,-4.958564549306015
+com.itextpdf.text.pdf.parser.FilteredRenderListener,-6.045082958794681,n,-6.046665925252746
+com.itextpdf.text.pdf.AcroFields$FieldPosition,-3.2360081987288676,n,-3.3055564903118877
+com.itextpdf.text.ElementListener,-4.620261586165577,n,-5.039879300751292
+com.itextpdf.text.pdf.codec.PngImage$NewByteArrayOutputStream,-1.0080597706999685,n,-1.4405475638909986
+com.itextpdf.text.pdf.PdfString,-7.868890038362193,n,-7.979141914518487
+com.itextpdf.text.pdf.PdfOutline,-9.071363848420875,n,-9.163138748586618
+com.itextpdf.text.pdf.CFFFont$Font,-3.2360081987288676,n,-3.3055564903118877
+com.itextpdf.text.pdf.AsianFontMapper,-6.399177114015096,n,-6.20293812812446
+com.itextpdf.text.pdf.interfaces.PdfDocumentActions,-5.163567515624268,n,-5.4868737309673845
+com.itextpdf.text.pdf.PdfBorderDictionary,-8.673721671077029,n,-8.81721640252119
+com.itextpdf.text.pdf.BaseFont,-8.296019536348085,n,-8.597096353985608
+com.itextpdf.text.html.simpleparser.LinkProcessor,-4.620261586165577,n,-5.039879300751292
+com.itextpdf.text.pdf.IntHashtable,-4.883738981410529,n,-4.5328535368021505
+com.itextpdf.text.pdf.PdfIndirectReference,-2.8743509371527782,n,-3.105343320610057
+com.itextpdf.text.Utilities,-1.2763682154230627,n,-0.6702413549354678
+com.itextpdf.text.pdf.hyphenation.HyphenationTree,-7.220847631600443,n,-6.644111049380075
+com.itextpdf.text.pdf.CFFFont$IndexOffsetItem,-3.553482933682262,n,-3.9193676726733173
+com.itextpdf.text.ImgTemplate,-7.638180109466267,n,-7.273204085871799
+com.itextpdf.text.pdf.qrcode.Mode,-2.2168864076610664,n,-2.0220582633546322
+com.itextpdf.text.pdf.TrueTypeFont$FontHeader,-0.6010926466820399,n,-0.5893628394357854
+com.itextpdf.text.pdf.qrcode.QRCode,-3.840782573408019,n,-3.548266975798237
+com.itextpdf.text.pdf.PdfFormXObject,-11.940026530111238,n,-11.780858616656609
+com.itextpdf.text.pdf.parser.MarkedContentInfo,-5.609413170059235,n,-5.285858613766095
+com.itextpdf.text.pdf.PdfPageLabels,-9.707179850285499,n,-8.84361270102005
+com.itextpdf.text.pdf.PdfCopyFields,-9.151556132943991,n,-8.753119523730621
+com.itextpdf.text.pdf.PdfOCProperties,-3.99008833786714,n,-4.493119823206294
+com.itextpdf.text.factories.RomanAlphabetFactory,-2.406795581730742,n,-2.122333643079895
+com.itextpdf.text.pdf.parser.PdfContentStreamProcessor$SetTextLeading,-7.559398311907675,n,-7.431155267845372
+com.itextpdf.text.pdf.richmedia.RichMediaCommand,-7.212587950256328,n,-7.66730624227024
+com.itextpdf.text.pdf.PdfSmartCopy$ByteStore,-8.464547267204852,n,-7.640095127260572
+com.itextpdf.text.Font$1,-3.347453551783471,n,-3.202357093873432
+com.itextpdf.text.pdf.PdfCopy,-13.537046938785808,n,-13.457200768145121
+com.itextpdf.text.MarkedSection,-7.5207897479159165,n,-7.30216307502063
+com.itextpdf.text.pdf.codec.TIFFFaxDecompressor,0.8241576577144448,n,1.2078061086258347
+com.itextpdf.text.pdf.fonts.cmaps.CMapParser,-7.087805695974909,n,-6.1856716908002065
+com.itextpdf.text.pdf.AcroFields$Item,-5.708324857409226,n,-5.467310595828675
+com.itextpdf.text.ChapterAutoNumber,-7.4829055110464395,n,-7.902219150110791
+com.itextpdf.text.pdf.PdfPublicKeyRecipient,-0.012300887593627019,n,0.038074195917480735
+com.itextpdf.text.BaseColor,-1.0726738413698,n,-1.145520671691671
+com.itextpdf.text.factories.RomanNumberFactory,-2.3297583798670702,n,-1.9508423576842437
+com.itextpdf.text.pdf.draw.DrawInterface,-3.0789347956512,n,-3.45100787029188
+com.itextpdf.text.Image,-10.366364268663377,n,-11.143494803211162
+com.itextpdf.text.xml.xmp.XmpWriter,-8.969641189243658,n,-8.080334204499117
+com.itextpdf.text.pdf.parser.ContentOperator,-4.620261586165577,n,-5.039879300751292
+com.itextpdf.text.pdf.SimpleNamedDestination,-10.28192067748902,n,-9.330474718395992
+com.itextpdf.text.xml.xmp.XmpMMSchema,-4.431196941801621,n,-5.187799840180956
+com.itextpdf.text.pdf.Type3Glyph,-9.101140128035468,n,-8.993335584799993
+com.itextpdf.text.pdf.parser.PdfContentReaderTool,-9.381416068521512,n,-8.2447373158509
+com.itextpdf.text.pdf.PdfPCell,-8.527123040671922,n,-8.282606576235253
+com.itextpdf.text.pdf.parser.PdfContentStreamProcessor$PopGraphicsState,-6.228610798911961,n,-6.1605433501241995
+com.itextpdf.text.pdf.PdfPRow,-9.676506605001324,n,-8.638763063129897
+com.itextpdf.text.pdf.PdfDestination,-8.289267542074969,n,-8.351296180441583
+com.itextpdf.text.pdf.BarcodeDatamatrix$ReedSolomon,0.32489323037206147,n,0.3575212550428698
+com.itextpdf.text.pdf.parser.RenderListener,-3.8731892592676895,n,-4.121930468583158
+com.itextpdf.text.pdf.MappedRandomAccessFile,-2.6574031169429215,n,-1.9288182168579764
+com.itextpdf.text.exceptions.InvalidPdfException,-1.2728199730883945,n,-2.1592361736469736
+com.itextpdf.text.pdf.PdfPKCS7,-12.277839345427243,n,-11.395747799096048
+com.itextpdf.text.pdf.BadPdfFormatException,-4.170527658284463,n,-4.771373560997108
+com.itextpdf.text.pdf.PdfSigGenericPKCS$VeriSign,-7.724326225665291,n,-8.296582550009566
+com.itextpdf.text.pdf.PdfDashPattern,-6.995603763580015,n,-7.188839334777596
+com.itextpdf.text.pdf.XfaForm,-10.016373975168825,n,-9.237157144214816
+com.itextpdf.text.pdf.parser.TextMarginFinder,-5.895538670057331,n,-5.74633398813956
+com.itextpdf.text.pdf.interfaces.PdfRunDirection,-0.14253427850709216,n,-0.3561836274350485
+com.itextpdf.text.pdf.PdfDocument$PdfInfo,-7.3809545188562025,n,-7.609609105537503
+com.itextpdf.text.exceptions.BadPasswordException,-1.5979323684054942,n,-2.1592361736469736
+com.itextpdf.text.pdf.codec.CCITTG4Encoder,-1.4516757442294628,n,-1.2313511267968935
+com.itextpdf.text.pdf.codec.BmpImage,-8.284635061950247,n,-7.85244611689406
+com.itextpdf.text.pdf.PdfVisibilityExpression,-7.763210788008701,n,-8.08090874702851
+com.itextpdf.text.Font$FontFamily,-3.013351183452495,n,-3.1143723469109896
+com.itextpdf.text.html.simpleparser.ImageProcessor,-5.713850347698026,n,-6.167201521167983
+com.itextpdf.text.List,-5.736779419534257,n,-6.115372876933064
+com.itextpdf.text.pdf.PdfShadingPattern,-9.68365265461752,n,-9.698460410862653
+com.itextpdf.text.pdf.PdfICCBased,-10.028896197617499,n,-10.03888557148037
+com.itextpdf.text.pdf.FontDetails,-9.37792998984719,n,-8.693819227584964
+com.itextpdf.text.pdf.PdfRectangle,-5.4534753291760945,n,-5.68761592570653
+com.itextpdf.text.pdf.parser.PdfContentStreamProcessor,-13.819673195713799,n,-13.16954537840952
+com.itextpdf.text.pdf.Barcode39,-8.215850513175274,n,-7.625066019770575
+com.itextpdf.text.pdf.PdfWriter$PdfBody,-9.296099754950907,n,-8.483115781805031
+com.itextpdf.text.pdf.PdfReader$PageRefs,-9.516988615696041,n,-8.644133330836377
+com.itextpdf.text.html.simpleparser.ChainedProperties$TagAttributes,-0.6010926466820399,n,-0.5893628394357854
+com.itextpdf.text.pdf.DefaultSplitCharacter,-4.055264283796775,n,-3.9533273629093637
+com.itextpdf.text.pdf.CMYKColor,-3.2716513986554725,n,-3.5529401860297143
+com.itextpdf.text.pdf.CFFFontSubset,-10.158057298107178,n,-9.823460770617665
+com.itextpdf.text.pdf.AcroFields$1,-0.7540801391382729,n,-1.1875633328944057
+com.itextpdf.text.pdf.PdfEFStream,-11.20877903582658,n,-10.5542124485455
+com.itextpdf.text.pdf.BaseField,-6.990303849632244,n,-7.096721972798929
+com.itextpdf.text.RtfElementInterface,-0.7540801391382729,n,-1.1875633328944057
+com.itextpdf.text.pdf.fonts.cmaps.CMap,-4.314286601253111,n,-3.843478313834051
+com.itextpdf.text.pdf.ColumnText,-10.489301679587797,n,-9.600798122426523
+com.itextpdf.text.pdf.parser.GraphicsState,-3.280618698183263,n,-3.2375021181078614
+com.itextpdf.text.pdf.parser.Matrix,0.12777352718368618,n,0.5553559968582016
+com.itextpdf.text.pdf.collection.PdfCollectionItem,-8.941991659297539,n,-9.002504052555464
+com.itextpdf.text.pdf.DefaultFontMapper,-5.375842387416754,n,-4.923089558196719
+com.itextpdf.text.pdf.PdfStamperImp$PageStamp,-8.2667545470591,n,-7.966031678065977
+com.itextpdf.text.pdf.PdfPageEvent,-5.063080880886917,n,-5.210466013754332
+com.itextpdf.text.pdf.PdfPageLabels$PdfPageLabelFormat,-0.6010926466820399,n,-0.5893628394357854
+com.itextpdf.text.pdf.HyphenationEvent,-2.528651963577442,n,-2.770680080091283
+com.itextpdf.text.pdf.RadioCheckField,-10.429005892878399,n,-9.770732257468868
+com.itextpdf.text.pdf.qrcode.QRCodeWriter,-7.487063386503026,n,-6.736951518030023
+com.itextpdf.text.pdf.PdfStream,-10.184144925286127,n,-10.73615950326286
+com.itextpdf.text.ImgWMF,-9.542340859495013,n,-9.23920944839461
+com.itextpdf.text.pdf.fonts.cmaps.CMapParser$LiteralName,-4.276533453964935,n,-4.393293178167024
+com.itextpdf.text.pdf.ArabicLigaturizer,-3.246154802327812,n,-2.8424495794906464
+com.itextpdf.text.pdf.codec.LZWStringTable,-0.06741458721742533,n,0.39618305826612477
+com.itextpdf.text.pdf.parser.PdfContentStreamProcessor$ModifyCurrentTransformationMatrix,-8.19036783056769,n,-7.840178576739691
+com.itextpdf.text.pdf.qrcode.GF256,-1.9174013851187315,n,-1.7344520248922537
+com.itextpdf.text.pdf.FdfReader,-9.10890796487977,n,-8.518520440300081
+com.itextpdf.text.html.simpleparser.ElementFactory,-10.682903171427212,n,-9.714440590183239
+com.itextpdf.text.pdf.CFFFont$IndexMarkerItem,-6.171474039462947,n,-6.413793217339791
+com.itextpdf.text.pdf.PdfPublicKeySecurityHandler,-13.19341253733037,n,-12.101498040433457
+com.itextpdf.text.pdf.BarcodeInter25,-8.22565839597218,n,-7.615983832337566
+com.itextpdf.text.pdf.codec.BitFile,-0.3507482874986463,n,-0.0813156777222711
+com.itextpdf.text.pdf.BarcodeCodabar,-8.44246673959894,n,-7.74500181058338
+com.itextpdf.text.LargeElement,-2.528651963577442,n,-2.770680080091283
+com.itextpdf.text.pdf.PdfFunction,-9.476260307027568,n,-8.871018574293617
+com.itextpdf.text.pdf.XfdfReader,-4.635166811000673,n,-3.9742398553819247
+com.itextpdf.text.pdf.OutputStreamEncryption,-6.356686199645549,n,-6.097839025917183
+com.itextpdf.text.pdf.codec.GifImage,-8.76925837266352,n,-8.19188389211431
+com.itextpdf.text.pdf.PdfGraphics2D$FakeComponent,-3.3300037875430046,n,-3.6638578988473576
+com.itextpdf.text.pdf.parser.RegionTextRenderFilter,-7.247430457874614,n,-7.077357175496152
+com.itextpdf.text.pdf.qrcode.Encoder,-9.685475112586252,n,-8.805317871690761
+com.itextpdf.text.xml.xmp.PdfSchema,-5.250453026869529,n,-5.835570712778432
+com.itextpdf.text.ImgRaw,-6.6697756376902175,n,-6.510046060539406
+com.itextpdf.text.pdf.events.PdfPTableEventForwarder,-6.522381709015315,n,-6.100350810073036
+com.itextpdf.text.pdf.draw.DottedLineSeparator,-5.303611943978404,n,-5.314886374949166
+com.itextpdf.text.pdf.AcroFields$SorterComparator,-2.402492140227794,n,-2.4676553288884087
+com.itextpdf.text.html.HtmlUtilities,-3.7290276409915344,n,-2.8321720280535705
+com.itextpdf.text.pdf.PRTokeniser$TokenType,-3.013351183452495,n,-3.1143723469109896
+com.itextpdf.text.pdf.qrcode.BlockPair,-2.855317631720485,n,-2.9182110860685984
+com.itextpdf.text.pdf.internal.PolylineShape,-1.71506957478472,n,-1.3814955758221852
+com.itextpdf.text.pdf.BarcodeDatamatrix$DmParams,-0.6010926466820399,n,-0.5893628394357854
+com.itextpdf.text.pdf.XfaForm$InverseStore,-0.5258431109670658,n,0.08082369916664656
+com.itextpdf.text.pdf.parser.PdfContentStreamProcessor$SetTextFont,-10.069674733482294,n,-9.711495140681327
+com.itextpdf.text.pdf.PdfPatternPainter,-9.259495074872286,n,-9.285164815179877
+com.itextpdf.text.pdf.richmedia.RichMediaPosition,-6.566306660034102,n,-6.972495719365907
+com.itextpdf.text.pdf.codec.TiffWriter$FieldLong,-3.4501147558129333,n,-3.7776472372083423
+com.itextpdf.text.xml.XMLUtil,-0.03609534431323752,n,0.4971890984061422
+com.itextpdf.text.DocListener,-3.274609993796747,n,-3.3958481625325954
+com.itextpdf.text.pdf.codec.wmf.MetaPen,-5.861413143929046,n,-5.9610441038611635
+com.itextpdf.text.pdf.IntHashtable$IntHashtableIterator,-4.0070110651519215,n,-3.912626892033912
+com.itextpdf.text.pdf.PdfDocument,-14.72714486466094,n,-13.795591175885002
+com.itextpdf.text.pdf.richmedia.CuePoint,-8.583476786537387,n,-8.942154583555025
+com.itextpdf.text.pdf.codec.GifImage$GifFrame,-3.2360081987288676,n,-3.3055564903118877
+com.itextpdf.text.pdf.parser.PdfContentStreamProcessor$EndText,-6.973413062270918,n,-6.827094385008348
+com.itextpdf.text.pdf.PdfPages,-10.350920670155269,n,-9.586765553339946
+com.itextpdf.text.pdf.XfaForm$AcroFieldsSearch,-5.207909252559314,n,-4.858994548078777
+com.itextpdf.text.pdf.PdfAppearance,-11.408929154569963,n,-11.104519024007642
+com.itextpdf.text.pdf.parser.PdfContentStreamProcessor$BeginMarkedContent,-7.559398311907675,n,-7.431155267845372
+com.itextpdf.text.pdf.Type1Font,-11.458247105695303,n,-10.82328068695967
+com.itextpdf.text.pdf.PdfPSXObject,-9.871778260328108,n,-10.11807378396557
+com.itextpdf.text.Jpeg,-7.287993202043534,n,-7.017745324084034
+com.itextpdf.text.pdf.fonts.cmaps.CMapParser$1,-0.7540801391382729,n,-1.1875633328944057
+com.itextpdf.text.pdf.crypto.ARCFOUREncryption,0.6109183705200787,n,0.6680933445269539
+com.itextpdf.text.pdf.parser.PdfContentStreamProcessor$FormXObjectDoHandler,-11.484747348485232,n,-10.821861321212172
+com.itextpdf.text.pdf.PdfCopyForms,-9.151556132943991,n,-8.753119523730621
+com.itextpdf.text.pdf.PdfShading,-9.933815030495383,n,-9.487645216975443
+com.itextpdf.text.pdf.parser.LineSegment,-4.355117451869744,n,-3.94820056312026
+com.itextpdf.text.pdf.qrcode.GF256Poly,-2.565588727261299,n,-1.9284012345080317
+com.itextpdf.text.html.simpleparser.CellWrapper,-7.723452528887276,n,-7.183193636030375
+com.itextpdf.text.pdf.codec.wmf.MetaDo,-10.51810383160965,n,-8.91297797036565
+com.itextpdf.text.xml.simpleparser.IanaEncodings,-0.3279941859558785,n,0.12262699238382
+com.itextpdf.text.pdf.TrueTypeFontUnicode,-11.638071255694793,n,-11.215482776620497
+com.itextpdf.text.pdf.qrcode.FormatInformation,-1.9913727490795818,n,-1.8610772788420138
+com.itextpdf.text.pdf.parser.PdfContentStreamProcessor$MoveNextLineAndShowTextWithSpacing,-9.081537772689492,n,-8.648205284865503
+com.itextpdf.text.Font,-6.190753165768758,n,-5.951107931182827
+com.itextpdf.text.pdf.PdfEncodings$WingdingsConversion,-3.7990440487920765,n,-3.7156519431002533
+com.itextpdf.text.pdf.RandomAccessFileOrArray,-4.216670919764286,n,-3.6053858505409018
+com.itextpdf.text.pdf.PdfGraphics2D$HyperLinkKey,-0.20868519211544773,n,-0.44614169498696865
+com.itextpdf.text.pdf.OcspClientBouncyCastle,-12.507249216718987,n,-11.24671707248848
+com.itextpdf.text.pdf.PdfImportedPage,-9.921618797559466,n,-10.21944754280579
+com.itextpdf.text.pdf.hyphenation.TernaryTree,-3.7154467314871216,n,-3.5346202569213547
+com.itextpdf.text.pdf.SpotColor,-6.276022149390536,n,-6.359810210775459
+com.itextpdf.text.xml.simpleparser.SimpleXMLDocHandler,0.46293133013501175,n,0.37642258267240325
+com.itextpdf.text.pdf.interfaces.PdfViewerPreferences,-4.318776621068297,n,-4.661248708770562
+com.itextpdf.text.pdf.PdfSigGenericPKCS$PPKLite,-7.724326225665291,n,-8.296582550009566
+com.itextpdf.text.pdf.PdfTemplate,-9.113779441257801,n,-9.817361245633926
+com.itextpdf.text.pdf.codec.TiffWriter$FieldBase,-1.6318987755309524,n,-2.3255874650445194
+com.itextpdf.text.pdf.PdfFont,-4.633068014142698,n,-4.3987788779529104
+com.itextpdf.text.pdf.collection.PdfCollectionSchema,-7.2832176217308096,n,-7.601902533034902
+com.itextpdf.text.xml.XmlDomWriter,0.21795064375730683,n,1.2492185284325301
+com.itextpdf.text.GreekList,-8.464575609303592,n,-8.074949561252732
+com.itextpdf.text.pdf.parser.SimpleTextExtractionStrategy,-6.773108028445656,n,-6.117791108322568
+com.itextpdf.text.factories.GreekAlphabetFactory,-2.3698733065696054,n,-2.1565240010205886
+com.itextpdf.text.pdf.PageResources,-7.316908509622798,n,-6.646808768266107
+com.itextpdf.text.pdf.PdfTextArray,-2.832676347089241,n,-2.199308835139753
+com.itextpdf.text.pdf.hyphenation.TernaryTree$Iterator$Item,-2.669056586719001,n,-2.852506097249136
+com.itextpdf.text.pdf.interfaces.PdfPageActions,-6.0118208594837865,n,-6.361292778339078
+com.itextpdf.text.pdf.PdfAcroForm,-11.380248447266982,n,-10.974146218861378
+com.itextpdf.text.pdf.PdfPCellEvent,-5.713850347698026,n,-6.167201521167983
+com.itextpdf.text.pdf.AcroFields$InstHit,-3.225796091306626,n,-2.882217792018801
+com.itextpdf.text.xml.xmp.LangAlt,-3.57227346616248,n,-3.5360465261733225
+com.itextpdf.text.pdf.PdfGraphics2D,-9.446423684927714,n,-9.138423092967926
+com.itextpdf.text.pdf.codec.TiffWriter$FieldAscii,-3.875005887321138,n,-3.8169894401034403
+com.itextpdf.text.pdf.richmedia.RichMediaAnnotation,-10.687659438954434,n,-10.326709611361998
+com.itextpdf.text.pdf.PatternColor,-5.09480972419664,n,-5.508239103132729
+com.itextpdf.text.html.HtmlEncoder,-2.6249889050619557,n,-1.7274974677461667
+com.itextpdf.text.pdf.BarcodePDF417$Segment,-0.6010926466820399,n,-0.5893628394357854
+com.itextpdf.text.pdf.fonts.cmaps.CMapParser$Operator,-4.276533453964935,n,-4.393293178167024
+com.itextpdf.text.pdf.CFFFont$OffsetItem,-2.8147128324457693,n,-3.6638578988473576
+com.itextpdf.text.pdf.PdfReader$1,-3.347453551783471,n,-3.202357093873432
+com.itextpdf.text.xml.simpleparser.NewLineHandler,-0.4440192436043722,n,-0.7348142194157781
+com.itextpdf.text.pdf.parser.PdfContentStreamProcessor$Do,-6.921684245566822,n,-6.874995733211917
+com.itextpdf.text.pdf.richmedia.RichMediaPresentation,-6.939952568238003,n,-7.450654613469097
+com.itextpdf.text.pdf.parser.PdfContentStreamProcessor$IgnoreOperatorContentOperator,-6.098264591086973,n,-6.281245107594424
+com.itextpdf.text.pdf.GrayColor,-3.1705754608761145,n,-3.464765168813278
+com.itextpdf.text.pdf.TrueTypeFont,-10.645690356406037,n,-10.668676057304944
+com.itextpdf.text.FontFactory,-4.708765370210244,n,-4.386511827169064
+com.itextpdf.text.pdf.parser.InlineImageUtils$InlineImageParseException,-1.5979323684054942,n,-2.1592361736469736
+com.itextpdf.text.pdf.TrueTypeFont$HorizontalHeader,-0.6010926466820399,n,-0.5893628394357854
+com.itextpdf.text.pdf.DocumentFont,-10.276695593102382,n,-10.214408815109694
+com.itextpdf.text.pdf.parser.PdfContentStreamProcessor$ProcessGraphicsStateResource,-10.74858612764987,n,-10.147308603453036
+com.itextpdf.text.pdf.CFFFont$DictNumberItem,-3.367055907129448,n,-3.547487393807922
+com.itextpdf.text.pdf.HyphenationAuto,-6.38744626120214,n,-5.8686648048144585
+com.itextpdf.text.pdf.parser.PdfContentStreamProcessor$ResourceDictionary,-6.397200705510853,n,-6.442208595365857
+com.itextpdf.text.pdf.hyphenation.PatternConsumer,0.10626358846938544,n,-0.05448642921518049
+com.itextpdf.text.pdf.CFFFont$RangeItem,-6.1590448622539435,n,-6.118229664704033
+com.itextpdf.text.pdf.parser.PdfContentStreamProcessor$TextMoveStartNextLineWithLeading,-8.163118506973008,n,-7.62920437930242
+com.itextpdf.text.pdf.PdfStamper,-12.795101584937967,n,-12.13704973048202
+com.itextpdf.text.pdf.LZWDecoder,-4.145341781634763,n,-3.8742006128500646
+com.itextpdf.text.pdf.parser.PdfContentStreamProcessor$TextMoveStartNextLine,-7.7474795137685595,n,-7.256990388095271
+com.itextpdf.text.pdf.parser.MarkedContentRenderFilter,-5.0778852779304975,n,-5.2864709969231
+com.itextpdf.text.Header,-3.607188158890601,n,-3.6321958572283495
+com.itextpdf.text.SpecialSymbol,-6.213896328616917,n,-5.754319202482869
+com.itextpdf.text.pdf.BidiLine,-10.040645813252198,n,-9.254924329126968
+com.itextpdf.text.Jpeg2000,-6.630641716288994,n,-6.527560471886655
+com.itextpdf.text.pdf.PdfMediaClipData,-9.2556460460163,n,-8.936157585836579
+com.itextpdf.text.pdf.PdfLine,-6.232740171288713,n,-5.552952068988053
+com.itextpdf.text.pdf.PRAcroForm,-8.932296250203018,n,-8.608709142664544
+com.itextpdf.text.pdf.codec.Base64,-2.744462082149058,n,-1.9388949186827442
+com.itextpdf.text.ImgCCITT,-7.55173637786308,n,-7.353251756616453
+com.itextpdf.text.pdf.PRStream,-9.164696912275678,n,-9.299395826297864
+com.itextpdf.text.pdf.AcroFields,-13.230929517488278,n,-12.155498670358362
+com.itextpdf.text.pdf.PdfContents,-11.542122482335365,n,-11.002632854069486
+com.itextpdf.text.pdf.BarcodeEAN,-7.890272431796084,n,-7.395284051240255
+com.itextpdf.text.pdf.PdfXConformanceException,-1.3372630848883365,n,-1.7428098944631267
+com.itextpdf.text.pdf.qrcode.ErrorCorrectionLevel,0.4886588158602425,n,0.628731678286132
+com.itextpdf.text.pdf.TSAClientBouncyCastle,-9.868769012230738,n,-8.80102991673011
+com.itextpdf.text.pdf.richmedia.RichMediaExecuteAction,-8.14842097949637,n,-8.764068626674744
+com.itextpdf.text.ZapfDingbatsNumberList,-8.29416621537359,n,-7.871135282798454
+com.itextpdf.text.pdf.ExtendedColor,-2.017200575257988,n,-2.9718818528935342
+com.itextpdf.text.pdf.parser.PdfContentStreamProcessor$SetTextRenderMode,-7.559398311907675,n,-7.431155267845372
+com.itextpdf.text.pdf.PdfWriter$PdfBody$PdfCrossReference,-2.602100180038685,n,-2.0729055506827
+com.itextpdf.text.pdf.PdfContentByte,-11.685890215185786,n,-11.747720327025759
+com.itextpdf.text.pdf.codec.wmf.MetaState,-6.242660726732065,n,-5.756095876685748

@@ -44,7 +44,7 @@ with open('versions.csv') as f:
             ck_csv_reader = csv.DictReader(ck_f)
 
             with open(f'./fwbr-metrics/fwbr-metrics-{version}.csv', 'w') as o:
-                o.write('ClassName, fwbr, fwbr_sub_type, fwbr_sub\n')
+                o.write('ClassName,fwbr,fwbr_sub_type,fwbr_sub\n')
 
                 for ck_row in ck_csv_reader:
                     class_name = ck_row['ClassName']
@@ -56,14 +56,14 @@ with open('versions.csv') as f:
                     NOC = int(ck_row['NOC'])
 
                     o.write(
-                        f'{class_name}, {calculate_fwbr(CBO, DIT, WMC, RFC, LCOM, NOC)}, ')
+                        f'{class_name},{calculate_fwbr(CBO, DIT, WMC, RFC, LCOM, NOC)},')
 
                     if number_of_classes <= 500:
                         o.write(
-                            f's, {calculate_fwbr_s(CBO, DIT, WMC, RFC, LCOM, NOC)}\n')
+                            f's,{calculate_fwbr_s(CBO, DIT, WMC, RFC, LCOM, NOC)}\n')
                     elif number_of_classes <= 1499:
                         o.write(
-                            f'n, {calculate_fwbr_n(CBO, DIT, WMC, RFC, LCOM, NOC)}\n')
+                            f'n,{calculate_fwbr_n(CBO, DIT, WMC, RFC, LCOM, NOC)}\n')
                     else:
                         o.write(
-                            f'l, {calculate_fwbr_l(CBO, DIT, WMC, RFC, LCOM, NOC)}\n')
+                            f'l,{calculate_fwbr_l(CBO, DIT, WMC, RFC, LCOM, NOC)}\n')
