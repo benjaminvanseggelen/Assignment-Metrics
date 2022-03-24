@@ -61,7 +61,7 @@ with open('versions.csv') as f:
                     if number_of_classes <= 500:
                         o.write(
                             f's, {calculate_fwbr_s(CBO, DIT, WMC, RFC, LCOM, NOC)}\n')
-                    elif number_of_classes <= 1400:
+                    elif number_of_classes <= 1499:
                         o.write(
                             f'n, {calculate_fwbr_n(CBO, DIT, WMC, RFC, LCOM, NOC)}\n')
                     else:
