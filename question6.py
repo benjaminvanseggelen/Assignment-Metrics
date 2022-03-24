@@ -37,6 +37,6 @@ with open('versions.csv') as f:
                 if layer_old != layer_new:
                     # FWBR value changed
                     number_of_changed_classes += 1
-                    print(row_new['ClassName'], layer_old, layer_new)
+                    # print(row_new['ClassName'], layer_old, layer_new)
 
         print(f'Number of changed classes: {number_of_changed_classes}')
